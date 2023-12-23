@@ -8,6 +8,15 @@
     ],
     "outputfile": "RoomComfortDemands"
   },
+   "Tidyingupandcleaning": {
+    "description": "You need to articulate some requirements to make your stay in the room more comfortable. Your demands can include, but should never be limited to the following aspects: room temperature, humidity, light, etc.",
+    "Examples":[
+     "It's too dark in this room, can we have more natural light?\n",
+     "The room has an unpleasant odor, perhaps we can ventilate to freshen the air.\n",
+     "The room is too cold, I'd like to cover up with something for warmth.\n"
+    ],
+    "outputfile": "RoomComfortDemands"
+  },
   "Random":{
    "description":"",
    "Examples":[
