@@ -1,0 +1,106 @@
+2023-12-01 22:37:46.336888
+1. "I need to adjust the room temperature."
+2. "The plants need watering."
+3. "I am hungry, I need to make lunch."
+4. "I need to wash the dishes."
+5. "I want to listen to music."
+6. "My dog needs to be fed."
+7. "I need toilet paper for the bathroom."
+8. "The trash needs to be taken out."
+9. "I want to play a board game."
+10. "I need to fix the loose handle."
+11. "I want to bake a cake."
+12. "The window needs cleaning."
+13. "I want to watch a movie."
+14. "I need to charge my phone."
+15. "I want to take a nap."
+16. "I need to exercise."
+17. "The magazines need to be organized."
+18. "I want to paint on the easel."
+19. "I need to mail this letter."
+20. "The pool needs cleaning."
+21. "I need to check if the clothes in the dryer are dry."
+22. "I want to read a book."
+23. "The rug needs to be vacuumed."
+24. "I need to edit some photos on my laptop."
+25. "I want to light a candle."
+26. "I need to make coffee."
+27. "The mirrors need to be cleaned."
+28. "I want to play pinball."
+29. "I need to check my reflection in the mirror before going out."
+30. "The plants on the planter need to be repotted."
+31. "I want to ride my scooter."
+32. "I need to take a shower."
+33. "The socks in the drawer need to be sorted."
+34. "I want to make a drink with the blender."
+35. "I need to sanitize my cellular telephone."
+36. "The laundry needs to be done."
+37. "I want to relax on the hammock."
+38. "I need to set up the projector for the movie night."
+39. "My bed needs to be made."
+40. "The refrigerator needs to be cleaned out."
+41. "I want to send a greeting card to a friend."
+42. "I need to trim the hedge."
+43. "I want to play soccer with the kids."
+44. "My bicycle needs a tune up."
+45. "The guitar needs to be tuned."
+46. "I need to bake bread in the oven."
+47. "I want to work on my hobby at the workbench."
+48. "The spice rack needs to be refilled."
+49. "The closet needs to be organized." 
+50. "I need to change the battery of the smoke detector.".
+
+2023-12-06 17:49:57.764088
+2023-12-06 17:50:36.010023
+2023-12-06 18:08:58.363150
+1. I need to dust off the china cabinet.
+2. The pinball machine needs repair.
+3. The storage box has to be labeled.
+4. Need to feed the fish in the pond.
+5. The scooter needs a wash.
+6. The blanket has to be aired.
+7. My earphones are tangled, I need to sort them out.
+8. The pool table cloth requires cleaning.
+9. I have noticed the toilet paper is out, it needs to be refilled.
+10. I must wash the sugar bowl.
+11. The ball chair is squeaking, maybe some oiling would help.
+12. Time to clean and maintain the slide.
+13. The fence needs to be painted.
+14. The bath mat needs to be laundered.
+15. The wall hook is loose, I need to fix it.
+16. It’s getting warm, the electric fan needs to be switched on.
+17. The living room is untidy, need to clear out the bags.
+18. The tap is leaking in the faucet, call the plumber.
+19. It's time to clean the toilet brush.
+20. The towel on the towel rail smells musty, time to change it.
+21. All the cups need to be organized in the cabinet.
+22. I must update the DVDs in my DVD player.
+23. Time to straighten up the cushions on the sofa.
+24. Need to charge the camera.
+25. The kitchen stove needs to be cleaned.
+26. I must straighten the headboard in the bedroom.
+27. The blender has to be washed.
+28. Set the kitchen timer for baking.
+29. Time to relax in the easy chair with a cup of tea.
+30. Need to dust off the chaise longue.
+31. The window curtain needs laundering.
+32. The chandelier lights are flickering, bulbs need replacement.
+33. Need to paint the interior barn door.
+34. The kitchen scale should be recalibrated.
+35. Time to paint on the easel.
+36. Arrange the wall decor.
+37. Need to clean the armchair.
+38. The soap dispenser in the bathroom needs refilling.
+39. Time to garden, pick up the spade.
+40. The single bed needs a change of sheets.
+41. The doorbell is not working, need to call an electrician.
+42. Get cozy in the beanbag chair with a book.
+43. The eames chair needs a wipe down.
+44. Thinking of setting up the hammock outdoors.
+45. Need to put things back on the wall unit.
+46. Adjust the handles on the cupboard.
+47. Check if there are any letters in the postbox.
+48. Empty the contents of the vase.
+49. Time to make some notes with the notepad.
+50. The trunk needs to be sorted out, it's cluttered.
+

@@ -1,0 +1,55 @@
+2023-12-01 22:46:54.783136
+Sure, here's how the items in your room can help fulfill your needs:
+
+1. "I need to adjust the room temperature": air_conditioner, heating_system, electric_fan, fireplace, radiator
+2. "The plants need watering": faucet, watering_can, pitcher, jug
+3. "I am hungry, I need to make lunch": stove, oven, toaster, microwave, refrigerator, cooker, blender, kitchen_scale
+4. "I need to wash the dishes": faucet, dishwasher, sink, dish_rack
+5. "I want to listen to music": radio_receiver, audio_system, earphone, subwoofer
+6. "My dog needs to be fed": pet_bowl
+7. "I need toilet paper for the bathroom": toilet_paper_holder, toilet_tissue
+8. "The trash needs to be taken out": ashcan, trash_bag
+9. "I want to play a board game": board_game, game_table
+10. "I need to fix the loose handle": toolbox, screwdriver, hammer
+11. "I want to bake a cake": oven, mixer, measuring_cup, cake_stand
+12. "The window needs cleaning": window_cleaner, cloth, bucket
+13. "I want to watch a movie": television_receiver, dvd_player, videodisk, projector
+14. "I need to charge my phone": socket, charger, wall_socket
+15. "I want to take a nap": single_bedm hammock, bunk_bed, sofa, daybed
+16. "I need to exercise": exercise_bike, treadmill, weights, yoga_mat
+17. "The magazines need to be organized": magazine_rack, storage_box, shelf
+18. "I want to paint on the easel": easel, paintbrush, paints
+19. "I need to mail this letter": mailbox, postbox, stamps
+20. "The pool needs cleaning": pool_skimmer, net, pool_vacuum
+21. "I need to check if the clothes in the dryer are dry": clothes_dryer
+22. "I want to read a book": book, lamp, reading_glasses
+23. "The rug needs to be vacuumed": vacuum
+24. "I need to edit some photos on my laptop": laptop, computer_work_area, mousepad
+25. "I want to light a candle": candle, lighter, matches
+26. "I need to make coffee": coffee_maker, kettle, coffee_beans, coffeepot
+27. "The mirrors need to be cleaned": mirror, cloth, window_cleaner
+28. "I want to play pinball": pinball_machine
+29. "I need to check my reflection in the mirror before going out": mirror, floor_mirror
+30. "The plants on the planter need to be repotted": planter, soils, shovel, gloves
+31. "I want to ride my scooter": scooter, helmet
+32. "I need to take a shower": showerhead, towel, bathrobe, soap, shampoo
+33. "The socks in the drawer need to be sorted": drawer, drawer_unit
+34. "I want to make a drink with the blender": blender, jug, fruit, ice
+35. "I need to sanitize my cellular telephone": disinfectant, microfiber_cloth
+36. "The laundry needs to be done": washer, laundry_bag, detergent, dryer
+37. "I want to relax on the hammock": hammock, pillow, blanket
+38. "I need to set up the projector for the movie night": projector, screen, speakers
+39. "My bed needs to be made": bedclothes, blanket, pillow
+40. "The refrigerator needs to be cleaned out": sponge, soap, garbage_bag
+41. "I want to send a greeting card to a friend": greeting_card, pen, stamps
+42. "I need to trim the hedge": hedge_trimmer
+43. "I want to play soccer with the kids": soccer_ball
+44. "My bicycle needs a tune up": bicycle_pump, wrench, oil
+45. "The guitar needs to be tuned": guitar, guitar_tuner
+46. "I need to bake bread in the oven": oven, bread-bin, flour, yeast
+47. "I want to work on my hobby at the workbench": workbench, tools, craft_supplies
+48. "The spice rack needs to be refilled": spice_rack, spices
+49. "The closet needs to be organized": drawers, hangers, shoe_rack, storage_boxes
+50. "I need to change the battery of the smoke detector": smoke_detector, batteries, step_ladder
+
+

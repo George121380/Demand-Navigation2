@@ -1,0 +1,22 @@
+{
+  "RoomComfort": {
+    "description": "You need to articulate some requirements to make your stay in the room more comfortable. Your demands can include, but should never be limited to the following aspects: room temperature, humidity, light, etc.",
+    "Examples":[
+     "It's too dark in this room, can we have more natural light?\n",
+     "The room has an unpleasant odor, perhaps we can ventilate to freshen the air.\n",
+     "The room is too cold, I'd like to cover up with something for warmth.\n"
+    ],
+    "outputfile": "RoomComfortDemands"
+  },
+  "Random":{
+   "description":"",
+   "Examples":[
+   "1.I am thirsty, and I want to drink something sweet.\n",
+   "2.I want to decorate my room, maybe I can put something on the wall.\n",
+   "3.I need to wash my clothes, but the soap is hard to use.\n",
+   "4.I want to listen to some music, it will be better to have some device that allows me to share the music with my friends.\n",
+   "5.I am bored ,Can I play any ball games?\n"
+   ],
+  "outputfile":"RandomDemands"
+  }
+}

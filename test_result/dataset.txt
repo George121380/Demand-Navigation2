@@ -1,0 +1,1075 @@
+2023-12-08 07:50:51.668981
+1. I am bored and I want to have some fun. Can I play the pinball machine?
+
+2. I want to listen to some music, I wonder where I put my earphones.
+
+3. I am doing some renovation in my house, I think I'll paint the fence first.
+
+4. I've got a little chilly, perhaps I should get the blanket from the storage box.
+
+5. I would like to write my diary, maybe I should use my new notepad.
+
+6. I need to wash my hands, I need soap and I prefer the dispenser one.
+
+7. I want to send a letter to my friend, I think I left the envelope in the storage box.
+
+8. I want to take a relaxing bath, maybe I'll bring my rubber duck.
+
+9. I have some free time and I want to relax. I can lie down in my hammock.
+
+10. I am tired, need to sleep. I will snuggle in my safest single bed. 
+
+11. I'm feeling very warm today, perhaps I can turn on the electric fan.
+
+12. I need to make a phone call and I should find my cellular telephone.
+
+13. I want to make a cup of coffee but I need to find the coffee maker first.
+
+14. I am viewing some old photos, maybe I can use the projector to have a closer look.
+
+15. I've got wrinkles in my blouse, I better find the ironing board and iron it.
+
+16. I need to wash my hands, I believe I left the soap in the soap dispenser.
+
+17. I want to enjoy some peaceful music, I think I can use my earphone for that.
+
+18. I want to try out a new recipe, first I need to find the oven.
+
+19. I want to recall an old memory from my childhood, maybe I'll watch the home videodisk.
+
+20. I've got important file to store, I better find my file cabinet.
+
+21. I'm feeling peckish, maybe make myself a sandwich using bread from the bread-bin.
+
+22. I want to watch my favorite TV show, I should find my television receiver.
+
+23. I have to repair my broken vase, which needed a glue stick from my drawer.
+
+24. I want to organize my room, maybe I should start with the bookcase and magazines.
+
+25. I am planning a movie night, I should find the dvd player first.
+
+26. I want to take a quick nap, maybe I'll go to the sofa.
+
+27. I am going to cook dinner, I should start heating up the stove.
+
+28. I want to clean the room, let me find the vacuum first.
+
+29. I'm trying to lose some weight, I better turn on the treadmill.
+
+30. I'm feeling like reading, where did I left that book?
+
+31. I want to surprise my kids with breakfast in bed, I need to find the serving cart.
+
+32. I think I've put on weight. Can't avoid the weighing scale anymore.
+
+33. Need to jot down some notes. Where did I put my pen in the drawer?
+
+34. I'm thinking about having a barbecue this evening, I should check the propane in the grill.
+
+35. I want to feel cozy, maybe I'll light the fireplace.
+
+36. I have an important meeting, I need to prepare my presentation. Let me turn on the laptop.
+
+37. After the meeting, I could do with a bit of rest. So, I'll sit in my armchair.
+
+38. It’s coffee time, need to switch on the coffee maker.
+
+39. I've a lot of laundry to do today, washing machine calling!
+
+40. I want to have some fun painting on my easel.
+
+41. I have to store some old clothes. Perhaps in the antique trunk.
+
+42. I am planning for a picnic, can I pack the picnic rug and basket?
+
+43. It's too cold outside, maybe I'll just take a hot bath.
+
+44. I'll prepare dinner today, I need to remove the chicken from the refrigerator.
+
+45. I'm sweating in this weather, I think I should turn on the ceiling fan.
+
+46. I need to do a little tidy up. Just need to find where I put my basket.
+
+47. I'm invited to a friend's house tonight. Can't seem to find my purse though.
+
+48. Drinks are so boring without ice. Freezer could use a little cleaning before making ice cubes.
+
+49. I have to bake a cake. I can’t find my baking pan.
+
+50. I'm tired of watching TV. Let me gather the board games to play with my family.
+
+2023-12-08 08:05:34.156361
+1. Need for entertainment: pinball_machine, pool_table, board_game, dvd_player, laptop, television_receiver, radio_receiver, projector, foosball_table, easel, game_table, rocking_chair, plates. 
+   Preference for a pinball machine: pinball_machine. 
+
+2. Desire for music: earphone, audio_system, laptop, radio_receiver, cellular_telephone, dvd_player, media_player, record_player.
+   Preference for earphones: earphone.
+   
+3. Home renovation: spade, sink_cabinet, paint_brush, scissors, bench_grinder.
+   Preference for painting a fence: fence, paint_brush.
+   
+4. Feeling cold: blanket, fireplace, heating_system, hot_tub, quilt, bedclothes
+   Preference for a blanket in a storage box: storage_box, blanket.
+
+5. Need to write: notepad, pen, pencil, marker, board, chalk, project, notebook, laptop.
+   Preference for a new notepad: notepad.
+   
+6. Need to clean hands: soap, soap_dispenser, sink, faucet, towel, tissue_box, hand_glass, washing_machine.
+   Preference for a dispenser soap: soap_dispenser, soap.
+
+7. Need to send mail: envelope, mailbox, postbox, pen, paper.
+   Preference for an envelope in a storage box: storage_box, envelope.
+
+8. Desire for a relaxing bath: bathtub, hot_tub, shower_stall, shower_head, bathrobe, bath_towel.
+   Preference for having a rubber duck: rubber_duck.
+   
+9. Wish to relax: hammock, chaise_longue, sofa, armchair, swing_bench, bed, bench, mattress, beanbag_chair, rocking_chair, massage_chair
+   Preference to lie down on hammock: hammock.
+
+10. Need for sleep: single_bed, bunk_bed, mattress, daybed, quilt, hammock, bedclothes, pillow, rocking_chair, blanket.
+    Preference for a single bed: single_bed.
+    
+11. Need to cool down: electric_fan, ceiling_fan, air_conditioner, ice_cubes, refrigerator, swimming_pool.
+    Preference for an electric fan: electric_fan.
+
+12. Need to make a call: cellular_telephone, telephone, laptop, tablet_computer, video_game_console, walkie-talkies.
+    Preference for a cellular telephone: cellular_telephone.
+
+13. Need to make coffee: coffee_maker, kettle, stove, microwave, cups, mugs, coffee_table, coffee_container, milk, sugar.
+    Preference for using a coffee maker: coffee_maker.
+
+14. Need to view photos: projector, computer_screen, monitor, tablet_computer, smartphone.
+    Preference for using a projector: projector.
+
+15. Need to iron clothes: ironing_board, iron, clothes_tree, clothes_drying_rack.
+    Preference for using the ironing board: ironing_board
+
+16. Need to wash hands: soap, soap_dispenser, sink, towel, faucet, hand_glass, washing_machine.
+    Preference for a soap in the soap dispenser: soap, soap_dispenser.
+
+17. Desire for music: earphone, speaker, laptop, mp3_player, radio_receiver, dvd_player, media_player, record_player.
+    Preference for using earphones: earphone.
+
+18. Need to cook: stove, oven, microwave, frying_pan, pot, wok, cooking_utensil, refrigerator, freezer, chopping_board.
+    Preference for finding the oven: oven.
+
+19. Desire to recall memories: videodisk, dvd_player, projector, laptop, camera, photo_album, cd_player, computer_screen.
+    Preference for watching a home videodisk: videodisk.
+
+20. Need to store files: file_cabinet, desk_drawer, binder, shelf, locker.
+    Preference for a file cabinet: file_cabinet.
+
+21. Need to eat: bread-bin, toaster, knife, cutting_board, plate, sandwich_maker, refrigerator, stove.
+    Preference for using bread from the bread-bin: bread-bin.
+
+22. Desire for entertainment: television_receiver, dvd_player, laptop, projector, radio_receiver, media_player, video_game_console.
+    Preference for watching television receiver: television_receiver.
+
+23. Need to repair vase: glue_stick, adhesive_tape, epoxy, clamps.
+    Preference for a glue stick from a drawer. drawer, glue_stick.
+
+24. Need to organize room: bookcase, shelving, drawer, storage_box, trunk, magazine_rack, wardrobe.
+    Preference for organizing bookcase and magazines: bookcase, magazine.
+
+25. Planning movie night: DVD player, television_receiver, projector, laptop, media_player, popcorn_maker, recliner, air_popcorn_maker.
+    Preference for a DVD player: DVD_player.
+
+26. Need a nap: sofa, bed, hammock, armchair, pillow, blanket.
+    Preference to nap on a sofa: sofa.
+    
+27. Need to cook dinner: stove, oven, microwave, pot, pan, skillets, ladle, spoon, fork, knife, cutting_board.
+    Preference for heating up the stove: stove.
+
+28. Need to clean the room: vacuum, broom, dustpan, cleaning_cloth, mop, bucket, duster, trash_can.
+    Preference for a vacuum: vacuum
+      
+29. Trying to lose weight: treadmill, dumbbell, exercise_bike, gym_equipment, skipping_rope.
+    Preference for turning on the treadmill: treadmill.
+    
+30. Need to read: book, magazine, newspaper, Kindle, tablet, spectacles, desk_lamp.
+    Preference for finding a book: book.
+
+31. Need to serve food: serving_cart, tray, plate, bowl, cutlery, food_warmer.
+    Preference for a serving cart: serving_cart.
+
+32. Monitoring weight: bathroom_scale, mirror, measuring_tape.
+    Preference for a weighing scale: bathroom_scale.
+
+33. Need to take notes: pen, pencil, notepad, laptop, diary, tablet.
+    Preference for a pen in the drawer: pen, drawer.
+
+34. BBQ planning: grill, loaf, tongs, plates, skewers, coal.
+    Preference for checking propane in grill: grill.
+
+35. Desire to feel cozy: fireplace, blanket, armchair, chaise_longue,easy_chair, cushion, clothes.
+    Preference for lighting the fireplace: fireplace.
+  
+36. Preparation for meeting: laptop, notebook, pen, pencil, monitor, printer, desk, chair, conference_table.  
+    Preference for turning on laptop: laptop.
+
+37. Need to rest: armchair, sofa, hammock, bed, massage_chair.
+    Preference for sitting in my armchair: armchair.
+
+38. Coffee time: coffee_maker, cups, sugar, spoon, coffee_table, milk.
+    Preference to turn on coffee maker: coffee_maker.
+
+39. Laundry day: washing_machine, clothes_drying_rack, laundry_bag, iron, ironing_board
+    Preference for washing machine: washing_machine.
+
+40. Fun with painting: easel, paints, brushes, palette, water_container.
+    Preference to use easel: easel.
+
+41. Clothes storage: trunk, wardrobe, clothes_hanger, storage_box, closet.
+    Preference to store in antique trunk: trunk.
+  
+42. Planning picnic: picnic_rug, basket, sandwich, bottles, cooler.
+    Preference for picnic_rug and basket: picnic_rug, basket.
+   
+43. Cold weather: hot_bath, blanket, fireplace, hot_water_bottle, scarf, gloves, heating_system.
+    Preference for a hot bath: bathtub, hot_tub.
+   
+44. Preparing dinner: refrigerator, oven, stove, cutting_board, knife, microwave, pots.
+    Preference to remove chicken from the refrigerator: refrigerator, chicken.
+   
+45. Feeling hot: ceiling_fan, electric_fan, air_conditioner, cooler, vest.
+    Preference to turn on the ceiling fan: ceiling_fan.
+   
+46. Tidying up: basket, garbage_can, recycle_bin, dustpan, broom, mop, vacuum.
+    Preference to find a basket: basket.
+   
+47. Heading out: purse, keys, coat, shoes, umbrella, cellphone.  
+    Preference to find purse: purse.
+   
+48. Making ice: freezer, ice-cube_tray, bottle, jug, refrigerator.
+    Preference for cleaning the freezer before making ice-cubes: freezer.
+
+49. Need to bake a cake: baking pan, oven, mixer, spatula, mixing_bowl, whisk, flour, sugar.
+    Preference to find the baking pan: baking pan.
+   
+50. Desire for a family activity: board_games, deck_of_cards, puzzle, jigsaw, video_game_console.
+    Preference for board games: board_game.
+  
+
+   
+
+
+2023-12-08 08:21:44.164868
+1. basic demand: I am bored and I want to have some fun.
+normal items: pinball_machine, pool_table, videodisk, television_receiver, radio_receiver, board_game, drum_set, video_game_console, guitar, game_table.
+preference: Can I play the pinball machine?
+prefered items: pinball_machine.
+
+2. basic demand: I want to listen to some music.
+normal items: earphone, radio_receiver, audio_system, record_player, music_stand.
+preference: I wonder where I put my earphones.
+prefered items: earphone.
+
+3. basic demand: I am doing some renovation in my house.
+normal items: spade, hammer, saw, tape measure, paint.
+preference: I think I'll paint the fence first.
+prefered items: fence.
+
+4. basic demand: I've got a little chilly.
+normal items: blanket, electric_fan, fireplace, hot_tub, heating_system.
+preference: Perhaps I should get the blanket from the storage box.
+prefered items: blanket.
+
+5. basic demand: I would like to write my diary.
+normal items: notepad, binder, desk, pen, desk_organizer, pencil.
+preference: maybe I should use my new notepad.
+prefered items: notepad.
+
+6. basic demand: I need to wash my hands.
+normal items: faucet, soap, soap_dispenser, washbasin.
+preference: I need soap and I prefer the dispenser one.
+prefered items: soap_dispenser.
+
+7. basic demand: I want to send a letter to my friend.
+normal items: letter, postbox, envelope, pen, mailbox.
+preference: I think I left the envelope in the storage box.
+prefered items: envelope.
+
+8. basic demand: I want to take a relaxing bath.
+normal items: bathtub, hot_tub, bath_mat, bath_towel, showerhead.
+preference: maybe I'll bring my rubber duck.
+prefered items: rubber duck.
+
+9. basic demand: I have some free time and I want to relax.
+normal items: hammock, sofa, easy_chair, recliner, chaise_longue.
+preference: I can lie down in my hammock.
+prefered items: hammock.
+
+10. basic demand: I am tired, need to sleep.
+normal items: single_bed, bunk_bed, king_bed, sofa, hammock.
+preference: I will snuggle in my safest single bed.
+prefered items: single_bed.
+
+It's not possible to provide for all demands due to the length limit. If you have any specific demands out of these remaining, please state those and I'll provide appropriate items from the provided list.
+
+2023-12-08 08:23:11.693787
+1.basic demand: I am bored and I want to have some fun.
+normal items: board_game, pinball_machine, bicycle, guitar, chess, pool_table.
+preference: Can I play the pinball machine?
+preferred items: pinball_machine.
+
+2.basic demand: I want to listen to some music.
+normal items: radio_receiver, guitar, record_player, audio_system, cellular_telephone.
+preference: I wonder where I put my earphones.
+preferred items: earphone.
+
+3.basic demand: I am doing some renovation in my house.
+normal items: ladder, hammer, spade, paint.
+preference: I think I'll paint the fence first.
+preferred items: fence, paint.
+
+4.basic demand: I've got a little chilly.
+normal items: electric_fan, air_conditioner, heating_system, fireplace, blanket.
+preference: perhaps I should get the blanket from the storage box.
+preferred items: blanket, storage_box.
+
+5.basic demand: I would like to write my diary.
+normal items: pen, desk, paper, notebook.
+preference: maybe I should use my new notepad.
+preferred items: notepad.
+
+6.basic demand: I need to wash my hands.
+normal items: faucet, soap, towel, sink.
+preference: I need soap and I prefer the dispenser one.
+preferred items: soap, soap_dispenser.
+
+7.basic demand: I want to send a letter to my friend.
+normal items: pen, paper, envelop, mailbox.
+preference: I think I left the envelope in the storage box.
+preferred items: envelope, storage_box.
+
+8.basic demand: I want to take a relaxing bath.
+normal items: hot_tub, showerhead, towel, bathtub.
+preference: maybe I'll bring my rubber duck.
+preferred items: toy_duck, bathtub.
+
+9.basic demand: I have some free time and I want to relax.
+normal items: hammock, chaise_longue, bed, sofa.
+preference: I can lie down in my hammock.
+preferred items: hammock.
+
+10.basic demand: I am tired, need to sleep.
+normal items: bed, sofa, hammock, pillow.
+preference: I will snuggle in my safest single bed.
+preferred items: single_bed.
+
+Continue this pattern for the rest of the demands.
+
+2023-12-08 08:27:33.822911
+1. basic demand: board_game, pinball_machine, magazine, television_receiver, guitar.
+   preference: pinball_machine.
+
+2. basic demand: laptop, audio_system, cellular_telephone.
+   preference: earphone.
+
+3. basic demand: paintbrush, bucket, ladder.
+   preference: fence.
+
+4. basic demand: heater, electric_fan, air_conditioner.
+   preference: blanket, storage_box.
+
+5. basic demand: pen, desk, desk_organizer, table_lamp.
+   preference: notepad.
+
+6. basic demand: sink, faucet, towel.
+   preference: soap_dispenser, soap.
+
+7. basic demand: pen, desk, stamp.
+   preference: envelope, storage_box.
+
+8. basic demand: bathtub, faucet, towel.
+   preference: rubber duck.
+
+9. basic demand: sofa, beanbag_chair, easy_chair.
+   preference: hammock.
+
+10. basic demand: blanket, pillows, lamp.
+    preference: single_bed.
+
+11. basic demand: air_conditioner, window, water.
+    preference: electric_fan.
+
+12. basic demand: desk, chair, notebook.
+    preference: cellular_telephone.
+
+13. basic demand: kitchen_cabinet, sink, cup.
+    preference: coffee_maker.
+
+14. basic demand: desk, chair, cabinet.
+    preference: projector.
+
+15. basic demand: washing_machine, hanger, closet.
+    preference: ironing_board.
+
+16. basic demand: sink, faucet, towel.
+    preference: soap_dispenser, soap.
+
+17. basic demand: audio_system, guitar, radio_receiver.
+    preference: earphone.
+
+18. basic demand: kitchen_cabinet, sink, stove.
+    preference: oven.
+
+19. basic demand: sofa, coffee_table, television_receiver.
+    preference: videodisk.
+
+20. basic demand: desk, chair, binder.
+    preference: file_cabinet.
+
+21. basic demand: kitchen_cabinet, knife, stove.
+    preference: bread-bin.
+
+22. basic demand: sofa, coffee_table, radio_receiver.
+    preference: television_receiver.
+
+23. basic demand: desk, chair, drawer.
+    preference: glue_stick.
+
+24. basic demand: desk, chair, basket.
+    preference: bookcase, magazines.
+
+25. basic demand: sofa, coffee_table, popcorn.
+    preference: dvd_player.
+
+26. basic demand: pillow, blanket, recliner.
+    preference: sofa.
+
+27. basic demand: kitchen_cabinet, refrigerator, sink.
+    preference: stove.
+
+28. basic demand: broom, mop, bucket.
+    preference: vacuum.
+
+29. basic demand: sneaker, tracksuit, water_bottle.
+    preference: treadmill.
+
+30. basic demand: desk, lamp, eye_glasses.
+    preference: book.
+
+31. basic demand: kitchen_cabinet, refrigerator, stove.
+    preference: serving_cart.
+
+32. basic demand: tracksuit, sneaker, water.
+    preference: weighing scale.
+
+33. basic demand: desk, lamp, notebook.
+    preference: pen, drawer.
+
+34. basic demand: kitchen_cabinet, knife, stove.
+    preference: barbecue, propane.
+
+35. basic demand: blanket, pillow, hot_cocoa.
+    preference: fireplace.
+
+36. basic demand: desk, chair, notebook.
+    preference: laptop.
+
+37. basic demand: bed, pillow, blanket.
+    preference: armchair.
+
+38. basic demand: kitchen_cabinet, sink, cup.
+    preference: coffee_maker.
+
+39. basic demand: laundry_bag, detergent, hanger.
+    preference: washing_machine.
+
+40. basic demand: desk, chair, pencil.
+    preference: easel.
+
+41. basic demand: basket, dustbin, vacuum.
+    preference: chest_of_drawers.
+
+42. basic demand: kitchen_cabinet, stove, refrigerator.
+    preference: picnic_rug, picnic_basket.
+
+43. basic demand: sweater, socks, hot_cocoa.
+    preference: bathtub.
+
+44. basic demand: kitchen_cabinet, stove, chopping_board.
+    preference: chicken, refrigerator.
+
+45. basic demand: water, window, air_conditioner.
+    preference: ceiling_fan.
+
+46. basic demand: broom, mop, dustbin.
+    preference: basket.
+
+47. basic demand: dress, shoebox, mirror.
+    preference: purse.
+
+48. basic demand: refrigerator, water, elbow_grease.
+    preference: ice, freezer.
+
+49. basic demand: kitchen_cabinet, stove, oven_mitt.
+    preference: baking_pan.
+
+50. basic demand: sofa, coffee_table, snacks.
+    preference: board_game.
+
+2023-12-08 08:29:27.886649
+1. I am bored and I want to have some fun: pinball_machine, pool_table, foosball_table, game_table.
+   Can I play the pinball machine?: pinball_machine.
+   
+2. I want to listen to some music: audio_system, radio_receiver, record_player.
+   I wonder where I put my earphones: earphone.
+
+3. I am doing some renovation in my house: hammer, paintbrush.
+   I think I'll paint the fence first: fence.
+
+4. I've got a little chilly: blanket, heating_system, fireplace, bathrobe.
+   Perhaps I should get the blanket from the storage box: blanket, storage_box.
+
+5. I would like to write my diary: notebook, notepad, pen, pencil.
+   Maybe I should use my new notepad: notepad.
+
+6. I need to wash my hands: faucet, soap, soap_dispenser.
+   I prefer the dispenser one: soap_dispenser.
+
+7. I want to send a letter to my friend: letter, postbox, mailbox.
+   I think I left the envelope in the storage box: envelope, storage_box.
+
+8. I want to take a relaxing bath: bathtub, bath_mat, bathrobe.
+   Maybe I'll bring my rubber duck: rubber duck.
+
+9. I have some free time and I want to relax: easy_chair, hammock, chaise_longue, armchair.
+   I can lie down in my hammock: hammock.
+
+10. I am tired, need to sleep: single_bed, double_bed, king_bed, sofa, daybed.
+    I will snuggle in my safest single bed: single_bed.
+
+11. I'm feeling very warm today: air_conditioner, electric_fan, ceiling_fan.
+    Perhaps I can turn on the electric fan: electric_fan.
+
+12. I need to make a phone call: cellular_telephone, telephone.
+    And I should find my cellular telephone: cellular_telephone.
+
+13. I want to make a cup of coffee: coffee_maker, espresso_maker, cooker, kettle.
+    But I need to find the coffee maker first: coffee_maker.
+
+14. I am viewing some old photos: album, frame, projector.
+    Maybe I can use the projector to have a closer look: projector.
+
+15. I've got wrinkles in my blouse: iron, ironing_board.
+    I better find the ironing board and iron it: ironing_board.
+
+And so on.
+
+2023-12-08 08:31:17.484170
+1. Having fun: pinball_machine, scooter, pool_table, board_game, game_table, air_hockey_table, l-shaped_couch, slide. 
+Preference: pinball_machine.
+
+2. Listen to some music: cellular_telephone, radio_receiver, audio_system, earphone, record_player.
+Preference: earphone.
+
+3. Renovation: paint, ladder, workbench, spade.
+Preference: Fence.
+
+4. Feeling chilly: blanket, heater, fireplace, electric_fan (for warm mode).
+Preference: blanket in the storage_box.
+
+5. Writing a diary: notepad, pen, desk, desk_organizer, notebook.
+Preference: new notepad.
+
+6. Washing hands: soap, soap_dispenser, faucet, sink, towel, towel_rack.
+Preference: soap in the soap_dispenser.
+
+7. Sending a letter: envelope, pen, desk, drawer_unit.
+Preference: envelope from the storage_box.
+
+8. Taking a bath: bathtub, faucet, towel, bathrobe, soap, soap_dish.
+Preference: rubber duck.
+
+9. Relaxing: hammock, sofa, chaise_longue, lounger, swing_bench. 
+Preference: hammock.
+
+10. Sleep: single_bed, bunk_bed, bed, double_bed, daybed, blanket, pillow.
+Preference: single bed.
+
+11. Feeling warm: electric_fan, ceiling_fan, window_curtain, air_conditioner. 
+Preference: electric_fan.
+
+12. Making a phone call: cellular_telephone, telephone.
+Preference: cellular_telephone.
+
+13. Making coffee: coffee_maker, stove, kettle, mug, coffeepot.
+Preference: coffee maker.
+
+14. Viewing old photos: projector, magnifying_glass, light.
+Preference: projector.
+
+15. Ironing clothes: ironing_board, iron.
+Preference: ironing board.
+
+16. Washing hands: soap, soap_dispenser, towel, sink.
+Preference: soap in soap_dispenser.
+
+17. Enjoying some music: earphone, radio_receiver, audio_system, cellular_telephone.
+Preference: earphone.
+
+18. Trying a new recipe: oven, stove, refrigerator, mixer, chopping_board. 
+Preference: oven.
+
+19. Recalling old memory: videodisk, DVD player, projector.
+Preference: home videodisk.
+
+20. Storing files: file_cabinet, drawer, storage_box, desk_organizer.
+Preference: file cabinet.
+
+21. Feeling peckish: bread-bin, stove, refrigerator, toaster, knife, cutting_board. 
+Preference: sandwich with bread from the bread-bin.
+
+22. Watching TV: television_receiver, remote_control.
+Preference: television_receiver.
+
+23. Repairing vase: glue_stick, toolset, workbench.
+Preference: glue stick from the drawer.
+
+24. Organising room: bookcase, cabinet, drawer_unit, storage_box, basket.
+Preference: organizing bookcase and magazines.
+
+25. Movie night: dvd_player, projector, television_receiver.
+Preference: DVD player.
+
+26. Taking a nap: sofa, recliner, bed, hammock.
+Preference: sofa.
+
+27. Cooking dinner: stove, oven, microwave, pots and pans, cutting_board, mixer.
+Preference: stove.
+
+28. Cleaning room: vacuum, broom, mop, dustpan.
+Preference: vacuum.
+
+29. Losing weight: treadmill, weights, yoga_mat, jump_rope.
+Preference: treadmill.
+
+30. Reading: Book, magnifying_glass, sofa, desk.
+Preference: missing book.
+
+31. Breakfast in bed: serving_cart, stove, toaster, bread-bin.
+Preference: serving cart.
+
+32. Checking weight: Bathroom_scale.
+Preference: Weighing scale.
+
+33. Jotting down notes: pen, notepad, notebook.
+Preference: pen in the drawer.
+
+34. Having a barbecue: grill, spatula, propane_tank, meat.
+Preference: checking propane in the grill.
+
+35. Feeling cozy: fireplace, blanket, cushion, lounger.
+Preference: fireplace.
+
+36. Preparing for a meeting: laptop, projector, whiteboard, notepad, pen.
+Preference: laptop.
+
+37. Resting: armchair, sofa, lounger, bed.
+Preference: armchair.
+
+38. Making Coffee: coffee_maker, kettle, cup, coffeepot.
+Preference: coffee maker.
+
+39. Doing laundry: washing_machine, detergent, fabric_softener.
+Preference: washing_machine.
+
+40. Painting: easel, paint, paintbrush.
+Preference: easel.
+
+41. Storing old clothes: trunk, wardrobe, chest_of_drawers, bag.
+Preference: antique trunk.
+
+42. Planning picnic: picnic_rug, picnic_basket, cooler, frisbee.
+Preference: picnic_rug and basket.
+
+43. Feeling cold: bathtub, hot_tub, blanket, heater.
+Preference: hot_bath.
+
+44. Preparing Dinner: refrigerator, stove, oven, chopping_board.
+Preference: removing chicken from the refrigerator.
+
+45. Sweating: ceiling_fan, electric_fan, air_conditioner, window.
+Preference: ceiling fan.
+
+46. Tidying up: basket, vacuum, broom, mop, storage_box.
+Preference: basket.
+
+47. Going to a friend's house: purse, car, motorcycle, scooter.
+Preference: purse.
+
+48. Making ice cubes: freezer, ice_cube_tray, bottle_opener.
+Preference: cleaning freezer before making cubes.
+
+49. Baking a cake: baking_pan, oven, mixer, weighing_scale.
+Preference: finding baking pan.
+
+50. Bored of TV: board_game, pinball_machine, game_table, air_hockey_table, video_game_console.
+Preference: gathering board games.
+
+2023-12-08 08:33:54.130415
+1. Basic demand: To have some fun: pinball_machine, board_game, foosball_table, pool_table, soccer_ball, television_receiver, easel, darts, game_table, table-tennis_table, drum_set. Preference: pinball_machine.
+
+2. Basic demand: To listen to some music: earphone, radio_receiver, audio_system, cellular_telephone. Preference: earphone.
+
+3. Basic demand: To do some renovation: paint, spade. Preference: fence.
+
+4. Basic demand: To get warm: blanket, fireplace, stove, heating_system. Preference: blanket in the storage_box.
+
+5. Basic demand: To write: pen, notepad, laptop, computer_work_area. Preference: notepad.
+
+6. Basic demand: To wash hands: faucet, soap, soap_dispenser, soap_dish. Preference: soap in the dispenser.
+
+7. Basic demand: To send a letter: letter, postbox, cellular_telephone. Preference: envelope, storage_box.
+
+8. Basic demand: To take a bath: bathtub, hot_tub, bathrobe. Preference: rubber duck.
+
+9. Basic demand: To relax: hammock, armchair, sofa, chaise_longue, easy_chair, rocking_chair. Preference: hammock.
+
+10. Basic demand: To sleep: single_bed, bunk_bed, sofa, hammock. Preference: single_bed.
+
+11. Basic demand: To cool down: electric_fan, air_conditioner, ceiling_fan. Preference: electric_fan.
+
+12. Basic demand: To make a phone call: cellular_telephone, telephone. Preference: cellular_telephone.
+
+13. Basic demand: To make coffee: coffee_maker, espresso_maker, coffeepot. Preference: coffee_maker.
+
+14. Basic demand: To view photos: projector, laptop, tablet_computer. Preference: projector.
+
+15. Basic demand: To iron clothes: ironing_board, iron. Preference: ironing_board.
+
+16. Basic demand: To wash hands: faucet, soap, soap_dispenser, soap_dish. Preference: soap in the soap dispenser.
+
+17. Basic demand: To listen to music: earphone, radio_receiver, audio_system, cellular_telephone. Preference: earphone.
+
+18. Basic demand: To cook: stove, oven, cooktop, microwave. Preference: oven.
+
+19. Basic demand: To recall memories: album, videodisk, projector, laptop. Preference: home videodisk.
+
+20. Basic demand: To store files: file_cabinet, storage_box, drawer_unit, laptop. Preference: file_cabinet.
+
+21. Basic demand: To eat: bread-bin, refrigerator, plate, bowl. Preference: bread-bin.
+
+22. Basic demand: To watch TV: television_receiver, projector, tablet_computer. Preference: television_receiver.
+
+23. Basic demand: To repair: craft_kit, glue_stick, toolbox. Preference: glue_stick.
+
+24. Basic demand: To organize room: bookcase, cabinet, storage_box, shelf, drawer_unit. Preference: bookcase, magazines.
+
+25. Basic demand: To watch a movie: dvd_player, projector, television_receiver. Preference: dvd_player.
+
+26. Basic demand: To take a nap: sofa, hammock, single_bed. Preference: sofa.
+
+27. Basic demand: To cook dinner: stove, oven, cooktop, microwave. Preference: stove.
+
+28. Basic demand: To clean room: vacuum, broom, duster, mop. Preference: vacuum.
+
+29. Basic demand: To lose weight: treadmill, bicycle, exercise_bike, bench_press. Preference: treadmill.
+
+30. Basic demand: To read: book, magazine, tablet_computer, laptop. Preference: book.
+
+31. Basic demand: To serve breakfast: serving_cart, tray, plate, bowl. Preference: serving_cart.
+
+32. Basic demand: To weigh oneself: bathroom_scale. Preference: bathroom_scale.
+
+33. Basic demand: To jot down notes: pen, notepad, chalkboard, whiteboard. Preference: pen.
+
+34. Basic demand: To have a barbecue: barbecue, grill, charcoal. Preference: grill.
+
+35. Basic demand: To feel cozy: fireplace, blanket, cushion, armchair. Preference: fireplace.
+
+36. Basic demand: To prepare for a meeting: laptop, tablet_computer, notebook, whiteboard. Preference: laptop.
+
+37. Basic demand: To rest: armchair, sofa, chaise_longue, hammock. Preference: armchair.
+
+38. Basic demand: To make coffee: coffee_maker, espresso_maker, coffeepot. Preference: coffee_maker.
+
+39. Basic demand: To do laundry: washing_machine, laundry_basket, clothesline, dryer. Preference: washing_machine.
+
+40. Basic demand: To paint: easel, paint, paintbrush. Preference: easel.
+
+41. Basic demand: To store clothes: storage_box, closet, wardrobe, dresser. Preference: antique trunk.
+
+42. Basic demand: To plan a picnic: picnic_rug, picnic_basket, cooler. Preference: picnic_rug and basket.
+
+43. Basic demand: To stay warm: heater, fireplace, blanket, hot_tub. Preference: hot bath.
+
+44. Basic demand: To prepare dinner: refrigerator, stove, oven, microwave. Preference: chicken.
+
+45. Basic demand: To cool down: electric_fan, air_conditioner, ceiling_fan. Preference: ceiling_fan.
+
+46. Basic demand: To clean up: storage_box, bin, bag, closet. Preference: basket.
+
+47. Basic demand: To go out: coat, shoes, hat, sunglasses. Preference: purse.
+
+48. Basic demand: For a drink: refrigerator, water_dispenser, wine_rack, soft_drinks_dispenser. Preference: ice from the freezer.
+
+49. Basic demand: To bake a cake: oven, mixer, weighing_scale, baking_pan. Preference: baking pan.
+
+50. Basic demand: To have fun: board_game, video_game_console, pinball_machine, slider. Preference: board_game.
+
+2023-12-08 08:46:36.961094
+1.basic demand: Having some fun
+normal items: pinball_machine, pool_table, board_game, foosball_table, video_game_console, air_hockey_table, dartboard.
+preference: Playing pinball game
+prefered items: pinball_machine
+
+2.basic demand: Listening to music
+normal items: earphone, audio_system, radio_receiver, record_player.
+preference: Use earphones
+prefered items: earphone
+
+3.basic demand: Doing house renovation
+normal items: paint, spade, toolbox.
+preference: Painting the fence
+prefered items: paint, fence
+
+4.basic demand: Getting warmer
+normal items: blanket, air_conditioner, heater, electric_fan.
+preference: Using the blanket from the storage box
+prefered items: blanket, storage_box
+
+5.basic demand: Writing something
+normal items: notepad, pen, pencil.
+preference: Writing in a new notepad
+prefered items: notepad
+
+6.basic demand: Washing hands
+normal items: soap, faucet, sink, soap_dispenser.
+preference: Using dispenser soap
+prefered items: soap_dispenser
+
+7.basic demand: Sending a letter
+normal items: envelope, postbox, mail_box.
+preference: Envelope in the storage box
+prefered items: envelope, storage_box
+
+8.basic demand: Taking a bath
+normal items: bathtub, soap, towel.
+preference: Bathing with a rubber duck
+prefered items: rubber_duck
+
+9.basic demand: Relaxing
+normal items: hammock, sofa, easy_chair, chaise_longue.
+preference: Lying down in the hammock
+prefered items: hammock
+
+10.basic demand: Going to sleep
+normal items: single_bed, double_bed, king_bed, bunk_bed.
+preference: Sleeping in a single bed
+prefered items: single_bed.
+
+2023-12-08 08:50:29.872224
+1.basic demand: have some fun
+normal items: pinball_machine, board_game, pool_table, stereo_system, chess_set, video_game_console, guitar, drum_set, darts, game_table, foosball_table, soccer_ball, toy_box, play_area.
+preference: play the pinball machine
+prefered items: pinball_machine.
+
+2.basic demand: listen to some music
+normal items: earphone, radio_receiver, stereo_system, record_player, audio_system, media_player. 
+preference: use earphones
+prefered items: earphone.
+
+3.basic demand: doing renovation
+normal items: spade, paint_brush, workbench, ladder, toolbox. 
+preference: paint the fence
+prefered items: fence.
+
+4.basic demand: keep warm
+normal items: blanket, coat, heating_system, electric_fan, fireplace. 
+preference: get the blanket from the storage box
+prefered items: blanket, storage_box.
+
+5.basic demand: write diary
+normal items: notepad, pen, notebook, desk, desk_organizer, computer_work_area. 
+preference: use my new notepad
+prefered items: notepad.
+
+6.basic demand: wash hands
+normal items: soap, faucet, hand_glass, soap_dispenser. 
+preference: use the dispenser soap
+prefered items: soap_dispenser.
+
+7.basic demand: send a letter
+normal items: envelope, pen, paper, mailbox, postbox. 
+preference: the envelope in the storage box
+prefered items: envelope, storage_box.
+
+8.basic demand: take a bath
+normal items: bathtub, towel, soap, shower_head, bath_mat, shower_door. 
+preference: bring my rubber duck
+prefered items: rubber_duck.
+
+9.basic demand: relax
+normal items: hammock, sofa, easy_chair, chaise_longue, chair, bed, recliner. 
+preference: lie down in my hammock
+prefered items: hammock.
+
+10.basic demand: sleep
+normal items: bed, bunk_bed, single_bed, double_bed, king_bed, mattress. 
+preference: snuggle in my safest single bed
+prefered items: single_bed.
+
+2023-12-08 09:18:53.636755
+1. I need to clean up the room, maybe I can start with the storage box + organizing my magazines and DVDs there.
+2. It's getting hot in here, I need to turn on the electric fan + I prefer it to be in a medium speed.
+3. I want to enhance my living room, I can put the flower in vase on the coffee table + I should also clean up the coffee table first.
+4. I wish to relax for a while, I can sit on the armchair + I would prefer to have a blanket to keep me warm.
+5. Its getting dark, I need to turn on my ceiling lamp + I prefer to dim the light for a more relaxing ambiance.
+6. I need to make breakfast, and I love to have some toast + I prefer to use the toaster oven for this.
+7. I am feeling a little tired, maybe I can lye on my bed + I prefer the single bed with soft pillows and clean bedclothes.
+8. I think I need to call a friend, I should use my cellular telephone + I prefer to sit on the swing bench on my porch while doing it.
+9. I feel bored and I want to play a game + I prefer to play pinball on my pinball machine.
+10. I need to go out, I should use my car + I prefer to check the weather on my television receiver before leaving.
+
+2023-12-08 09:21:38.883845
+1. I feel cold, I should probably wrap myself with that nice warm blanket.
+2. I feel a bit off, maybe reading a magazine will help to relax.
+3. I am hungry, I could make something in the stove, preferably a light healthy meal.
+4. I need to cut some paper, I just have to find where I put my knife.
+5. I'm expecting an important call, I should keep my cellular telephone close by.
+6. I want to watch a movie, I hope I can find a good DVD for the DVD player.
+7. I feel like doing some writing, I just need a notepad and a quiet corner.
+8. I want some fresh air, maybe I can sit on the swing bench in the yard.
+9. The room feels stuffy, I should turn on the electric fan for a while.
+10. My dog looks bored, maybe he would like to play with his favorite ball.
+
+2023-12-08 09:22:27.944628
+1. I need to rest, preferably on something comfortable like the easy chair or hammock.
+2. I want to exercise a bit, maybe I can bounce on the trampoline or play table tennis.
+3. I need to cook dinner, I'll probably require the stove and some kitchen utensils.
+4. I feel like creating something artistic, can I use the easel and some paper from the storage box?
+5. I'm cold and want to warm up, maybe I can light up the fireplace and wrap myself in a blanket.
+6. I need to clean the house, I'd need a vacuum, broom, and perhaps some soap.
+7. I want to enjoy my afternoon tea, it would be great to use the china cabinet to fetch my favorite cup and teapot.
+8. I intend to work on my computer, I should find my laptop and plug it into the socket.
+9. I long to listen to some soothing music, hopefully, my earphones and CD from the dvd player are available.
+10. I aspire to spend some time outdoors, maybe I can relax under the gazebo or feed the fish in the pond.
+
+
+2023-12-08 09:23:58.201848
+1. I need to send a letter, and I would like to find my stationery in the storage box.
+
+2. I need a cup of sugar for baking, I hope I can find it in my sugar bowl.
+
+3. I want to take a nap, I prefer doing so on my chaise longue.
+
+4. I need to check my weight, so I have to find my bathroom scale.
+
+5. I have to write in my journal, I will need my favourite fountain pen from my drawer.
+
+6. I need to fresh up, can I find a fresh towel on the towel rail?
+
+7. I need to study for my exam, I would like to sit in my armchair, where I feel most comfortable.
+
+8. I want to paint a picture, could I find my colors and brushes in the cabinet?
+
+9. I need to clean the house, I should use the vacuum from the storage box.
+
+10. I want to take some photos, I should pick up my camera from the shelf.
+
+2023-12-08 10:20:16.732203
+1. I'm hungry but don't know what to cook today, can I look for a recipe in the magazine rack?
+   
+2. I feel like doing some physical activities, maybe I can jump on the trampoline for a while. 
+
+3. My friend is coming tonight, I should impress him with my specialty dish, Can I use the blender for the sauce?
+
+4. I remembered some old memories and want to look into it, can I check old photos with the projector?
+
+5. It's really hot today and the fan isn't providing enough cool air, maybe I should use the air conditioner.
+
+6. I want to have a relaxing bath tonight, can I light up some candles and put them on the bath mat?
+
+7. It's been a long day and I want to rest a bit, can I lay on the hammock with a blanket to keep me warm?
+
+8. I want to hear some vintage music, maybe I can use the audio system for this purpose.
+
+9. I feel like doing some painting today, can I use the easel and start painting?
+
+10. I have watched a new movie and loved it, maybe I can play the movie again using the dvd player and projector.
+
+2023-12-08 10:27:28.878416
+1. I am feeling cold, I need a blanket + I prefer the plush cozy one.
+2. I want to clean up my storage box + I prefer to use a duster to make it dust free.
+3. I want to learn some cooking, So I should use the stove + I have a recipe book to follow along my cooking.
+4. I need to wash my face, I need to use the sink + I prefer a soothing face wash.
+5. I want to enjoy my evening, I can play a game of pool on my pool table + I prefer to invite my friend over to join me.
+6. I want to drink some water, I need a glass + I prefer cold water from the refrigerator. 
+7. I am bored, I want to watch a movie + perhaps using the DVD player and projector would be a good idea.
+8. I feel tired, I should sleep on my bed + I prefer the one with the softest mattress and bedclothes.
+9. I want to write a letter, I need a notepad and a pen + I prefer to write it near the window for better light.
+10. I need to keep myself fit, perhaps I could jump on the trampoline + I prefer to do this early in the morning when the air is fresh.
+
+2023-12-08 10:29:28.020567
+1. I need to get some work done on my laptop,<my preference is to work from the comfort of my armchair>.
+2. I'm feeling a little hot, <could you turn on the electric fan and aim it towards the sofa where I'll be sitting>.
+3. I've just finished a great book and am looking for my next read, <could you grab a selection of books from the shelf>.
+4. I'm in the mood to cook myself a nice meal, <could you gather some cooking utensils from the kitchen>.
+5. I want to do some exercises,<preferably yoga on the mat>.
+6. I need to make an important phone call, <so I need to find my cellular telephone>.
+7. I'm feeling tired and I want to rest, <I would prefer to use the hammock rather than the bed>.
+8. I have a business presentation tomorrow, <I want to practice on the projector>.
+9. I'm quite dirty from gardening and need to take a shower,<I'll be needing the bathrobe within reach when I'm done>.
+10. It's a beautiful day outside,<I'm thinking of having a picnic on the picnic rug>.
+
+2023-12-08 11:04:32.221686
+1. I need to clean the house, the vacuum would come handy for this job. <Basic Demand> & I prefer to listen to some music while doing it, where are my earphones? <Preferences>
+
+2. My friends are coming over, I need to get the pool table ready for a game <Basic Demand>. I think some snacks would be good, may be I could use some snacks and plates from the kitchen cabinet <Preferences>.
+
+3. I feel like taking a nap, I should find my blanket <Basic Demand>. I prefer to wake up to a natural light, I should open the window curtains before sleeping <Preferences>.
+
+4. I want to capture some good pictures today, where is my camera? <Basic Demand>. I prefer taking photos in natural light, perhaps I should wait until the morning <Preferences>.
+
+5. I feel like watching a movie, I need to find a good DVD for the DVD player  <Basic Demand>. I prefer to watch the movie under the warmth of my blanket, where is it? <Preferences>.
+
+6. I need to workout, where is my mat for some yoga?<Basic Demand>. I prefer to follow a video while doing yoga, I need to get my laptop ready <Preferences>.
+
+7. I feel dehydrated, I need to fill a glass with water from the faucet <Basic Demand>. I prefer cold water, so I should get some ice from the refrigerator <Preferences>.
+
+8. I fancy a ride, I should find the keys to my scooter <Basic Demand>. I prefer to listen to some music while driving, where did I put my earphone? <Preferences>.
+
+9. I want to read a book, I wonder where I left it last <Basic Demand>. I would prefer a cup of tea along with it, should heat some water on the stove <Preferences>.
+
+10.I need to jot down some important points, I need to find a notepad and pen <Basic Demand>. I prefer to do it while sitting on my favourite armchair <Preferences>.
+
+2023-12-08 11:06:05.479884
+1. Basic Demand: I feel the room is warm, I need to cool it down. Preference: Perhaps I should turn on the electric fan for a while.
+2. Basic Demand: I want to get some work done. Preference: I think I should sit down at the desk, and maybe put on some calming music through the audio system.
+3. Basic Demand: I want to make dinner tonight. Preference: I guess I should use the stove and oven, maybe I’ll make a lasagna.
+4. Basic Demand: I'm tired, I need to relax. Preference: Perhaps I could sit down on the sofa, cover myself with a blanket and read a book.
+5. Basic Demand: I am feeling cold, I need to warm up. Preference: Maybe I can light a fire in the fireplace, and enjoy a cozy evening.
+6. Basic Demand: I need to answer a call, I remember it's silent mode. Preference: I should look for my cellular telephone, it might be on the kitchen counter.
+7. Basic Demand: I want to exercise and keep fit. Preference: I guess it's a good idea to use the exercise bike in the garage.
+8. Basic Demand: I am feeling creative today, want to paint something. Preference: I should set up my easel and get my paints from the drawer.
+9. Basic Demand: I need to fill up my bike's tires. Preference: I should look for the air pump in the storage box.
+10. Basic Demand: It seems like it's going to rain, I need to secure outdoor items. Preference: Perhaps folding the picnic table and storing the scooter in the garage would be a good idea.
+
+2023-12-08 11:09:40.869450
+1. "I'm feeling a bit cold, perhaps I could use the blanket on my chair."
+2. "I need to check my weight, should use the bathroom scale in the corner."
+3. "I'm feeling tired and need a rest, might get cozy on the sofa with a throw and unwind."
+4. "I am feeling bored, I could play a game on my laptop that sits on the desk."
+5. "It's getting pretty hot in here, maybe I should turn on the electric fan."
+6. "I wish to tidy up my room, I will start by putting these magazines into the magazine rack."
+7. "I want to make myself a smoothie, I should use the blender in the kitchen."
+8. "I'd like to sit outside and enjoy my book, I'll take this easy chair to the gazebo."
+9. "I need to feed my dog, I'll find his pet food in the storage box."
+10. "I feel like listening to some music, I'll use the audio system next to the china cabinet."
+
+2023-12-08 11:11:11.442747
+1. I need a hot bath to relax, preferably with my lavender scented soap.
+2. I feel like cooking something special tonight, I need to find my recipe book and a pan.
+3. I am in the mood for some entertainment, I would like to play board games. 
+4. I need to clean my house, preferably starting with the vacuum for the living room rug.
+5. I want to make some iced tea, I need to find my pitcher and fill it up.
+6. I'm having a hard time seeing my book, maybe I can adjust the table lamp to get better light. 
+7. I want to hang my newly washed clothes, I need to look for the clothes rack in the storage cabinet.
+8. I need to mail this letter, but first I need to find a pen and my notepad.
+9. I feel like creating some art, think I'll get the easel from the garage and some watercolors.
+10. I am hot, and would like some fresh air. I think I'll sit on my swing bench under the gazebo.
+

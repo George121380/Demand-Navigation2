@@ -1,0 +1,63 @@
+2023-12-08 09:15:06.539966
+1. I would like to prepare dinner tonight and since I prefer healthy eating, I need to use the stove, refrigerator, chopping_board, and utensils to cook a meal.
+2. It's a bit hot today, I need to turn on the electric_fan, preferably the ceiling_fan to circulate air throughout the room.
+3. I'm feeling bored, I would love to play a board_game, preferably chess to challenge my mind.
+4. It's laundry day, and I value cleanliness, I'll use the washer, soap, and laundry_bag to clean my clothes.
+5. I want to listen to some music, so I'll use my earphone to enjoy my favorite songs from my audio_system without disturbing others.
+6. I need to clean the house, particularly the floor, so I'll use the broom and mop, paying special attention to the kitchen area.
+7. I'm feeling a bit tired and cold, I need to rest on the sofa under the warmth of my blanket.
+8. I have to tidy up the living room, I'll use the storage_box to organize items and the vacuum to clean the floor and the sofa.
+9. I want to read a book, preferably a novel, so I'll use the lamp and my easy_chair for a comfortable reading session.
+10. I am feeling a bit creative, I need to use the easel and paint to make a new piece of wall_art for the empty space on my wall.
+
+2023-12-08 09:15:06.539966
+1. Basic demand: Prepare dinner
+Normal items: stove, refrigerator, chopping_board, utensils, knife, oven, cooker, blender, mixer, pot, wok, casserole, pan, spoon, spatula, mixing_bowl, measuring_cup, cutting_board.
+Preference: Healthy eating
+Preferred items: refrigerator (for storing fresh produce), chopping_board (for slicing vegetables), utensils (for cooking and eating), stove (for low-fat cooking methods such as grilling or steaming).
+
+2. Basic demand: Cool the room
+Normal items: electric_fan, ceiling_fan, air_conditioner.
+Preference: Circulate air throughout the room
+Preferred items: ceiling_fan.
+
+3. Basic demand: Entertain yourself
+Normal items: board_game, book, video_game_console, radio_receiver, television_receiver, dvd_player, projector, camera.
+Preference: Challenge your mind
+Preferred items: chess, book, puzzle-game.
+
+4. Basic demand: Laundry
+Normal items: washer, soap, laundry_bag, clothes_dryer, ironing_board.
+Preference: Cleanliness
+Preferred items: soap, washing_machine, laundry_bag (for separating dirty and clean clothes), clothes_dryer.
+
+5. Basic demand: Listen to music
+Normal items: earphone, audio_system, radio_receiver, media_player.
+Preference: Not disturb others
+Preferred items: earphone.
+
+6. Basic demand: Clean the house
+Normal items: broom, mop, vacuum, rug, soap, dustpan, bucket, cleaning_cloth.
+Preference: Focus on the kitchen area
+Preferred items: mop, broom, vacuum (for crumbs), soap (for cleaning surfaces).
+
+7. Basic demand: Rest
+Normal items: sofa, blanket, chaise_longue, lounge_chair, bed.
+Preference: Stay warm
+Preferred items: blanket, heater.
+
+8. Basic demand: Tidy the living room
+Normal items: storage_box, vacuum, dustpan and broom, drawer_unit.
+Preference: Clean the floor and the sofa
+Preferred items: vacuum, mop.
+
+9. Basic demand: Read a book
+Normal items: book, lamp, easy_chair, reading_glasses.
+Preference: Read a novel
+Preferred items: novel, easy_chair, lamp (for good lighting).
+
+10. Basic demand: Create a piece of art
+Normal items: easel, paint, brushes, palette, canvas.
+Preference: Create a wall_art
+Preferred items: easel, wall_paint, brush.
+
