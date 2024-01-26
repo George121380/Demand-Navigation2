@@ -1,0 +1,1303 @@
+[
+    {
+        "task_instruction": "I need to quickly dry my hands, preferably with something disposable.",
+        "basic_demand": "I need to quickly dry my hands",
+        "preference": "preferably with something disposable",
+        "basic_object": [
+            [
+                "hand_dryer"
+            ],
+            [
+                "paper_towel"
+            ],
+            [
+                "towel"
+            ],
+            [
+                "bath_towel"
+            ],
+            [
+                "napkin"
+            ],
+            [
+                "tissue_box"
+            ]
+        ],
+        "preference_object": [
+            [
+                "paper_towel"
+            ],
+            [
+                "napkin"
+            ],
+            [
+                "tissue_box"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need a comfortable place to read, preferably with natural light.",
+        "basic_demand": "I need a comfortable place to read",
+        "preference": "preferably with natural light",
+        "basic_object": [
+            [
+                "easy_chair.n.01",
+                "floor_lamp.n.01"
+            ],
+            [
+                "l-shaped_couch.n.01",
+                "lamp.n.02"
+            ],
+            [
+                "recliner.n.01",
+                "lamp.n.02"
+            ],
+            [
+                "rocking_chair.n.01",
+                "lamp.n.02"
+            ],
+            [
+                "chaise_longue.n.01",
+                "lamp.n.02"
+            ],
+            [
+                "l-shaped_couch.n.01",
+                "window.n.01"
+            ],
+            [
+                "recliner.n.01",
+                "window.n.01"
+            ],
+            [
+                "rocking_chair.n.01",
+                "window.n.01"
+            ],
+            [
+                "chaise_longue.n.01",
+                "window.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "l-shaped_couch.n.01",
+                "window.n.01"
+            ],
+            [
+                "recliner.n.01",
+                "window.n.01"
+            ],
+            [
+                "rocking_chair.n.01",
+                "window.n.01"
+            ],
+            [
+                "chaise_longue.n.01",
+                "window.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to keep time during my workout, preferably without carrying anything.hhhhhhhhhhhhhhhhhhhhhhhhh",
+        "basic_demand": "I need to keep time during my workout",
+        "preference": "preferably without carrying anything",
+        "basic_object": [
+            [
+                "wristwatch"
+            ],
+            [
+                "stopwatch"
+            ],
+            [
+                "wall_clock"
+            ],
+            [
+                "cellular_telephone"
+            ],
+            [
+                "smartphone_app"
+            ],
+            [
+                "kitchen_timer"
+            ],
+            [
+                "timer"
+            ],
+            [
+                "alarm_clock"
+            ],
+            [
+                "mantel_clock"
+            ],
+            [
+                "wall_clock.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "wristwatch"
+            ],
+            [
+                "smartphone_app"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to be able to tell the time during my cooking, but I'd like it to be clearly visible across the room.",
+        "basic_demand": "I need to be able to tell the time during my cooking",
+        "preference": "but I'd like it to be clearly visible across the room",
+        "basic_object": [
+            [
+                "wall_clock.n.01"
+            ],
+            [
+                "kitchen_timer.n.01"
+            ],
+            [
+                "timer.n.01"
+            ],
+            [
+                "oven.n.01"
+            ],
+            [
+                "microwave.n.01"
+            ],
+            [
+                "coffee_maker.n.01"
+            ],
+            [
+                "cell_phone.n.01"
+            ],
+            [
+                "tablet_computer.n.01"
+            ],
+            [
+                "wall_sign.n.01"
+            ],
+            [
+                "clock.n.01"
+            ],
+            [
+                "alarm_clock.n.01"
+            ],
+            [
+                "mantel_clock.n.01"
+            ],
+            [
+                "grandfather_clock.n.01"
+            ],
+            [
+                "projector.n.02"
+            ]
+        ],
+        "preference_object": [
+            [
+                "wall_clock.n.01"
+            ],
+            [
+                "clock.n.01"
+            ],
+            [
+                "grandfather_clock.n.01"
+            ],
+            [
+                "projector.n.02"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "Find a place to sit and relax outdoors, but I prefer it to be under shade.",
+        "basic_demand": "Find a place to sit and relax outdoors",
+        "preference": "but I prefer it to be under shade",
+        "basic_object": [
+            [
+                "swing_chair"
+            ],
+            [
+                "camp_chair"
+            ],
+            [
+                "easy_chair"
+            ],
+            [
+                "ottoman"
+            ],
+            [
+                "sofa"
+            ],
+            [
+                "l-shaped_couch"
+            ],
+            [
+                "recliner"
+            ],
+            [
+                "chaise_longue"
+            ],
+            [
+                "swivel_chair"
+            ],
+            [
+                "club_chair"
+            ],
+            [
+                "ball_chair"
+            ],
+            [
+                "beanbag_chair"
+            ],
+            [
+                "picnic_rug"
+            ],
+            [
+                "bar_stool"
+            ],
+            [
+                "daybed"
+            ],
+            [
+                "trampoline"
+            ],
+            [
+                "gazebo"
+            ],
+            [
+                "picnic_table"
+            ]
+        ],
+        "preference_object": [
+            [
+                "swing_chair",
+                "tree"
+            ],
+            [
+                "camp_chair",
+                "tree"
+            ],
+            [
+                "picnic_rug",
+                "tree"
+            ],
+            [
+                "gazebo",
+                "tree"
+            ],
+            [
+                "picnic_table",
+                "tree"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need a place to rest and read outdoors, but it should be comfortable for extended periods.",
+        "basic_demand": "I need a place to rest and read",
+        "preference": "it should be comfortable for extended periods",
+        "basic_object": [
+            [
+                "hammock.n.01"
+            ],
+            [
+                "swing_bench.n.01"
+            ],
+            [
+                "deck_chair.n.01"
+            ],
+            [
+                "camp_chair.n.01"
+            ],
+            [
+                "bench.n.01"
+            ],
+            [
+                "garden_seat.n.01"
+            ],
+            [
+                "swing_chair.n.01"
+            ],
+            [
+                "rocking_chair.n.01"
+            ],
+            [
+                "patio_chair.n.01"
+            ],
+            [
+                "garden_chair.n.01"
+            ],
+            [
+                "l-shaped_couch.n.01",
+                "cushion.n.03"
+            ],
+            [
+                "picnic_table.n.01",
+                "seat_cushion.n.01"
+            ],
+            [
+                "folding_chair.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "swing_bench.n.01",
+                "cushion.n.01"
+            ],
+            [
+                "hammock.n.01",
+                "throw_pillow.n.01"
+            ],
+            [
+                "swing_chair.n.01",
+                "throw_pillow.n.01"
+            ],
+            [
+                "rocking_chair.n.01",
+                "cushion.n.01"
+            ],
+            [
+                "l-shaped_couch.n.01",
+                "cushion.n.03"
+            ],
+            [
+                "picnic_table.n.01",
+                "seat_cushion.n.01"
+            ],
+            [
+                "folding_chair.n.01",
+                "throw_pillow.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to securely store valuable items, preferably in a hidden manner.",
+        "basic_demand": "I need to securely store valuable items",
+        "preference": "preferably in a hidden manner",
+        "basic_object": [
+            [
+                "safe.n.01"
+            ],
+            [
+                "cabinet.n.01",
+                "lock.n.01"
+            ],
+            [
+                "drawer_unit.n.01",
+                "lock.n.01"
+            ],
+            [
+                "trunk.n.02",
+                "padlock.n.01"
+            ],
+            [
+                "blanket_chest.n.01",
+                "lock.n.01"
+            ],
+            [
+                "chest_of_drawers.n.01",
+                "lock.n.01"
+            ],
+            [
+                "jewelry_box.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "safe.n.01"
+            ],
+            [
+                "trunk.n.02",
+                "padlock.n.01"
+            ],
+            [
+                "secretary.n.05",
+                "lock.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "Find a place to work on my laptop comfortably with privacy.",
+        "basic_demand": "I need to work on my laptop",
+        "preference": "I prefer to work comfortably with some privacy",
+        "basic_object": [
+            [
+                "desk.n.01",
+                "chair.n.01"
+            ],
+            [
+                "desk.n.01",
+                "swivel_chair.n.01"
+            ],
+            [
+                "sofa.n.01"
+            ],
+            [
+                "l-shaped_couch.n.01"
+            ],
+            [
+                "recliner.n.01"
+            ],
+            [
+                "computer_work_area.n.01",
+                "swivel_chair.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "desk.n.01",
+                "swivel_chair.n.01"
+            ],
+            [
+                "computer_work_area.n.01",
+                "swivel_chair.n.01"
+            ],
+            [
+                "l-shaped_couch.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to hydrate after a workout, preferably using something that keeps the water cool.",
+        "basic_demand": "I need to hydrate after a workout",
+        "preference": "preferably using something that keeps the water cool",
+        "basic_object": [
+            [
+                "water_bottle.n.01"
+            ],
+            [
+                "jug.n.01"
+            ],
+            [
+                "carafe.n.01"
+            ],
+            [
+                "pitcher.n.02"
+            ],
+            [
+                "thermos.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "water_bottle.n.01"
+            ],
+            [
+                "thermos.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to prepare a hot beverage, preferably coffee.",
+        "basic_demand": "I need to prepare a hot beverage",
+        "preference": "preferably coffee",
+        "basic_object": [
+            [
+                "coffee_maker.n.01"
+            ],
+            [
+                "espresso_maker.n.01"
+            ],
+            [
+                "kettle.n.01",
+                "stove.n.01"
+            ],
+            [
+                "teapot.n.01",
+                "stove.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "coffee_maker.n.01"
+            ],
+            [
+                "espresso_maker.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to prepare dinner, but I prefer using eco-friendly cooking methods.",
+        "basic_demand": "I need to prepare dinner",
+        "preference": "but I prefer using eco-friendly cooking methods",
+        "basic_object": [
+            [
+                "stove.n.01",
+                "pan.n.01"
+            ],
+            [
+                "microwave.n.02",
+                "bowl.n.01"
+            ],
+            [
+                "kitchen_appliance.n.01"
+            ],
+            [
+                "solar_cooker.n.01",
+                "pan.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "solar_cooker.n.01",
+                "pan.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to organize my paperwork in an accessible way, however, I prefer a solution that doesn't take up desk space.",
+        "basic_demand": "I need to organize my paperwork",
+        "preference": "however, I prefer a solution that doesn't take up desk space",
+        "basic_object": [
+            [
+                "file.n.03"
+            ],
+            [
+                "cabinet.n.01"
+            ],
+            [
+                "desk_organizer.n.01"
+            ],
+            [
+                "file.n.03",
+                "desk_organizer.n.01"
+            ],
+            [
+                "shelving.n.01"
+            ],
+            [
+                "bulletin_board.n.02"
+            ],
+            [
+                "magazine_rack.n.01"
+            ],
+            [
+                "wall_organizer.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "file.n.03"
+            ],
+            [
+                "cabinet.n.01"
+            ],
+            [
+                "shelving.n.01"
+            ],
+            [
+                "bulletin_board.n.02"
+            ],
+            [
+                "magazine_rack.n.01"
+            ],
+            [
+                "wall_organizer.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to season my food while cooking, preferably in a way that allows for precise control of spices.",
+        "basic_demand": "I need to season my food",
+        "preference": "preferably in a way that allows for precise control of spices",
+        "basic_object": [
+            [
+                "spicemill.n.01"
+            ],
+            [
+                "pepper_mill.n.01"
+            ],
+            [
+                "spice_rack.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "spicemill.n.01"
+            ],
+            [
+                "pepper_mill.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need a place to store my various remote controls and game controllers in the living room, but I prefer something that matches the modern decor.",
+        "basic_demand": "I need a place to store my various remote controls and game controllers",
+        "preference": "but I prefer something that matches the modern decor",
+        "basic_object": [
+            [
+                "cabinet.n.01"
+            ],
+            [
+                "tv_stand.n.01"
+            ],
+            [
+                "coffee_table.n.01"
+            ],
+            [
+                "console_table.n.01"
+            ],
+            [
+                "side_table.n.01"
+            ],
+            [
+                "ottoman.n.03"
+            ],
+            [
+                "basket.n.01"
+            ],
+            [
+                "drawer_unit.n.01"
+            ],
+            [
+                "desk.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "tv_stand.n.01"
+            ],
+            [
+                "console_table.n.01"
+            ],
+            [
+                "side_table.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to prepare a hot beverage, preferably without waking anyone up.",
+        "basic_demand": "I need to prepare a hot beverage",
+        "preference": "preferably without waking anyone up",
+        "basic_object": [
+            [
+                "kettle.n.01"
+            ],
+            [
+                "coffee_maker.n.01"
+            ],
+            [
+                "espresso_maker.n.01"
+            ],
+            [
+                "stove.n.01",
+                "pan.n.01"
+            ],
+            [
+                "stove.n.01",
+                "kettle.n.01"
+            ],
+            [
+                "stove.n.01",
+                "teapot.n.01"
+            ],
+            [
+                "microwave.n.02"
+            ]
+        ],
+        "preference_object": [
+            [
+                "kettle.n.01"
+            ],
+            [
+                "espresso_maker.n.01"
+            ],
+            [
+                "microwave.n.02"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to wash my hands with warm water and soap, but I prefer to do so without splashing water around.",
+        "basic_demand": "I need to wash my hands with warm water and soap",
+        "preference": "but I prefer to do so without splashing water around",
+        "basic_object": [
+            [
+                "sink.n.01",
+                "soap.n.01"
+            ],
+            [
+                "sink_stand.n.01",
+                "toiletry.n.01"
+            ],
+            [
+                "washbasin.n.01",
+                "toiletry.n.01"
+            ],
+            [
+                "sink.n.01",
+                "soap_dispenser.n.01"
+            ],
+            [
+                "washbasin.n.01",
+                "soap_dispenser.n.01"
+            ],
+            [
+                "faucet.n.01",
+                "soap.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "sink_stand.n.01",
+                "toiletry.n.01"
+            ],
+            [
+                "sink.n.01",
+                "soap_dispenser.n.01"
+            ],
+            [
+                "faucet.n.01",
+                "soap.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to season my food, preferably using freshly ground spices.",
+        "basic_demand": "I need to season my food",
+        "preference": "preferably using freshly ground spices",
+        "basic_object": [
+            [
+                "saltshaker.n.01"
+            ],
+            [
+                "pepper_mill.n.01"
+            ],
+            [
+                "spice_rack.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "pepper_mill.n.01"
+            ],
+            [
+                "spice_rack.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need something to relax in outdoors, but I also want it to be comfortable for reading a book.",
+        "basic_demand": "I need something to relax in outdoors",
+        "preference": "but I also want it to be comfortable for reading a book",
+        "basic_object": [
+            [
+                "chair.n.01"
+            ],
+            [
+                "armchair.n.01"
+            ],
+            [
+                "picnic_rug.n.01"
+            ],
+            [
+                "hot_tub.n.01"
+            ],
+            [
+                "swing.n.02"
+            ],
+            [
+                "rocking_chair.n.01"
+            ],
+            [
+                "hammock.n.01"
+            ],
+            [
+                "bench.n.01",
+                "cushion.n.03"
+            ],
+            [
+                "beanbag_chair.n.01"
+            ],
+            [
+                "chaise_longue.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "armchair.n.01"
+            ],
+            [
+                "swing.n.02",
+                "cushion.n.03"
+            ],
+            [
+                "rocking_chair.n.01"
+            ],
+            [
+                "beanbag_chair.n.01"
+            ],
+            [
+                "chaise_longue.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to make a hot beverage to help me stay awake, and I prefer it to be coffee.",
+        "basic_demand": "I need to make a hot beverage to help me stay awake",
+        "preference": "and I prefer it to be coffee",
+        "basic_object": [
+            [
+                "kettle",
+                "cup"
+            ],
+            [
+                "kettle",
+                "cup",
+                "tea_bag"
+            ],
+            [
+                "coffee_maker",
+                "cup"
+            ],
+            [
+                "espresso_maker",
+                "cup"
+            ]
+        ],
+        "preference_object": [
+            [
+                "coffee_maker",
+                "cup"
+            ],
+            [
+                "espresso_maker",
+                "cup"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to organize a small evening gathering but want to avoid any accidents with real candles.",
+        "basic_demand": "I need to organize a small evening gathering",
+        "preference": "but want to avoid any accidents with real candles",
+        "basic_object": [
+            [
+                "table.n.02",
+                "chair.n.01",
+                "plate.n.04",
+                "spoon.n.01",
+                "bowl.n.01"
+            ],
+            [
+                "table.n.02",
+                "chair.n.01",
+                "glass.n.02",
+                "wine_bottle.n.01"
+            ],
+            [
+                "sofa.n.01",
+                "coffee_table.n.01",
+                "pourable_contaner.n.02",
+                "easy_chair.n.01"
+            ],
+            [
+                "bar.n.02",
+                "bar_stool.n.01",
+                "glass.n.02",
+                "wineglass.n.01",
+                "cocktail_shaker.n.01",
+                "bottle.n.01"
+            ],
+            [
+                "table_lamp.n.01",
+                "lamp.n.02"
+            ],
+            [
+                "ceiling_lamp.n.01",
+                "floor_lamp.n.01"
+            ],
+            [
+                "pendant_lamp.n.01",
+                "track_lighting.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "table_lamp.n.01",
+                "lamp.n.02"
+            ],
+            [
+                "ceiling_lamp.n.01",
+                "floor_lamp.n.01"
+            ],
+            [
+                "pendant_lamp.n.01",
+                "track_lighting.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to make a presentation, and I prefer it to be in a well-lit area.",
+        "basic_demand": "I need to make a presentation",
+        "preference": "and I prefer it to be in a well-lit area",
+        "basic_object": [
+            [
+                "laptop"
+            ],
+            [
+                "projector"
+            ],
+            [
+                "blackboard"
+            ],
+            [
+                "whiteboard"
+            ],
+            [
+                "dvd_player",
+                "monitor"
+            ],
+            [
+                "laptop",
+                "projector"
+            ],
+            [
+                "tablet_computer"
+            ],
+            [
+                "laptop",
+                "dvd_player",
+                "loudspeaker"
+            ],
+            [
+                "computer_screen"
+            ],
+            [
+                "camcorder",
+                "television_receiver"
+            ],
+            [
+                "video_game_console",
+                "monitor"
+            ],
+            [
+                "desk",
+                "lectern"
+            ],
+            [
+                "microphone",
+                "speaker_system"
+            ],
+            [
+                "flip_chart"
+            ],
+            [
+                "podium"
+            ],
+            [
+                "laptop",
+                "track_lighting"
+            ],
+            [
+                "projector",
+                "track_lighting"
+            ],
+            [
+                "whiteboard",
+                "track_lighting"
+            ],
+            [
+                "computer_screen",
+                "track_lighting"
+            ],
+            [
+                "camcorder",
+                "television_receiver",
+                "track_lighting"
+            ],
+            [
+                "video_game_console",
+                "monitor",
+                "track_lighting"
+            ],
+            [
+                "desk",
+                "lectern",
+                "track_lighting"
+            ],
+            [
+                "microphone",
+                "speaker_system",
+                "track_lighting"
+            ],
+            [
+                "flip_chart",
+                "track_lighting"
+            ],
+            [
+                "podium",
+                "track_lighting"
+            ]
+        ],
+        "preference_object": [
+            [
+                "laptop",
+                "track_lighting"
+            ],
+            [
+                "projector",
+                "track_lighting"
+            ],
+            [
+                "whiteboard",
+                "track_lighting"
+            ],
+            [
+                "tablet_computer",
+                "track_lighting"
+            ],
+            [
+                "computer_screen",
+                "track_lighting"
+            ],
+            [
+                "camcorder",
+                "television_receiver",
+                "track_lighting"
+            ],
+            [
+                "video_game_console",
+                "monitor",
+                "track_lighting"
+            ],
+            [
+                "desk",
+                "lectern",
+                "track_lighting"
+            ],
+            [
+                "microphone",
+                "speaker_system",
+                "track_lighting"
+            ],
+            [
+                "flip_chart",
+                "track_lighting"
+            ],
+            [
+                "podium",
+                "track_lighting"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to work on a writing project, but I prefer a quiet and comfortable space.",
+        "basic_demand": "I need to work on a writing project",
+        "preference": "but I prefer a quiet and comfortable space",
+        "basic_object": [
+            [
+                "laptop.n.01"
+            ],
+            [
+                "desk.n.01",
+                "chair.n.01"
+            ],
+            [
+                "desk.n.01",
+                "chair.n.01",
+                "notebook.n.01"
+            ],
+            [
+                "desk.n.01",
+                "chair.n.01",
+                "room_divider.n.01"
+            ],
+            [
+                "desk.n.01",
+                "chair.n.01",
+                "notebook.n.01",
+                "cushion.n.03"
+            ]
+        ],
+        "preference_object": [
+            [
+                "desk.n.01",
+                "chair.n.01",
+                "room_divider.n.01"
+            ],
+            [
+                "desk.n.01",
+                "chair.n.01",
+                "notebook.n.01",
+                "cushion.n.03"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to refresh my clothes after a workout, but I prefer not to use electric appliances.",
+        "basic_demand": "I need to refresh my clothes after a workout",
+        "preference": "but I prefer not to use electric appliances",
+        "basic_object": [
+            [
+                "drying_rack",
+                "washbasin",
+                "soap"
+            ],
+            [
+                "clothes_tree",
+                "washbasin",
+                "soap"
+            ],
+            [
+                "clothesline",
+                "washbasin",
+                "soap"
+            ],
+            [
+                "drying_rack",
+                "basket",
+                "soap"
+            ],
+            [
+                "laundry_bag",
+                "drying_rack"
+            ]
+        ],
+        "preference_object": [
+            [
+                "drying_rack",
+                "washbasin",
+                "soap"
+            ],
+            [
+                "clothes_tree",
+                "washbasin",
+                "soap"
+            ],
+            [
+                "clothesline",
+                "washbasin",
+                "soap"
+            ],
+            [
+                "drying_rack",
+                "basket",
+                "soap"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to water the plants in my garden efficiently, but I prefer not to carry heavy objects.",
+        "basic_demand": "I need to water the plants in my garden",
+        "preference": "but I prefer not to carry heavy objects",
+        "basic_object": [
+            [
+                "watering_can.n.01"
+            ],
+            [
+                "garden_hose.n.01"
+            ],
+            [
+                "bucket.n.01"
+            ],
+            [
+                "sprinkler_system.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "garden_hose.n.01"
+            ],
+            [
+                "sprinkler_system.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to find a comfortable place to read for my study group, preferable with good lighting.",
+        "basic_demand": "I need to find a comfortable place to read for my study group",
+        "preference": "preferable with good lighting",
+        "basic_object": [
+            [
+                "sofa",
+                "coffee_table"
+            ],
+            [
+                "dining_table",
+                "chair"
+            ],
+            [
+                "armchair",
+                "floor_lamp"
+            ],
+            [
+                "desk",
+                "desk_lamp"
+            ],
+            [
+                "swivel_chair",
+                "table_lamp"
+            ],
+            [
+                "sofa",
+                "end_table",
+                "table_lamp"
+            ]
+        ],
+        "preference_object": [
+            [
+                "armchair",
+                "floor_lamp"
+            ],
+            [
+                "desk",
+                "desk_lamp"
+            ],
+            [
+                "swivel_chair",
+                "table_lamp"
+            ],
+            [
+                "sofa",
+                "end_table",
+                "table_lamp"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need a place to store my small valuables discreetly, but it should be easily accessible.",
+        "basic_demand": "I need a place to store my small valuables",
+        "preference": "but it should be easily accessible",
+        "basic_object": [
+            [
+                "safe.n.01"
+            ],
+            [
+                "jewelry_box.n.01"
+            ],
+            [
+                "drawer_unit.n.01"
+            ],
+            [
+                "chest_of_drawers.n.01"
+            ],
+            [
+                "nightstand.n.01"
+            ],
+            [
+                "desk.n.01"
+            ],
+            [
+                "credenza.n.01"
+            ],
+            [
+                "dresser.n.05"
+            ]
+        ],
+        "preference_object": [
+            [
+                "drawer_unit.n.01"
+            ],
+            [
+                "chest_of_drawers.n.01"
+            ],
+            [
+                "nightstand.n.01"
+            ],
+            [
+                "desk.n.01"
+            ],
+            [
+                "credenza.n.01"
+            ],
+            [
+                "dresser.n.05"
+            ]
+        ]
+    }
+]
