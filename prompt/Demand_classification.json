@@ -4,18 +4,57 @@
     "Examples":[
      "It's too dark in this room, can we have more natural light?\n",
      "The room has an unpleasant odor, perhaps we can ventilate to freshen the air.\n",
-     "The room is too cold, I'd like to cover up with something for warmth.\n"
+     "It is too cold in the room, I'd like to cover up with something for warmth.\n",
+     "The room is incredibly dry, I want to turn on appliances that can humidify.",
+     "The noise outside is too loud, and I want to use some pleasant sounds to alleviate it."
     ],
-    "outputfile": "RoomComfortDemands"
+    "outputfile": "RoomComfortDemands.txt"
   },
-   "Tidyingupandcleaning": {
-    "description": "You need to articulate some requirements to make your stay in the room more comfortable. Your demands can include, but should never be limited to the following aspects: room temperature, humidity, light, etc.",
+   "FoodandDrink": {
+    "description": "You need to articulate your daily dietary needs and preferences, as well as requirements and preferences related to food preparation. In your requests, you can include, but are not limited to, descriptions of what specific foods or drinks you would like, or what kind of dishes you intend to prepare. In detailing your preferences, it is essential to describe finer aspects such as texture, flavor, temperature preferences, ingredient combinations, distinctive features of beverages, and more.",
     "Examples":[
-     "It's too dark in this room, can we have more natural light?\n",
-     "The room has an unpleasant odor, perhaps we can ventilate to freshen the air.\n",
-     "The room is too cold, I'd like to cover up with something for warmth.\n"
+     "I am hungry, I'd like to prepare something quick and easy to eat.\n",
+     "I would like to drink something refreshing, but I don't want to drink tea.\n",
+     "I would like to have some desserts, preferably chilled.\n"
     ],
-    "outputfile": "RoomComfortDemands"
+    "outputfile": "FoodandDrinkDemands.txt"
+  },
+   "WorkandStudy": {
+    "description": "Please articulate some needs related to work and study. This may include, but is not limited to, the provision of work and study materials and tools, preparing, arranging, and enhancing the work and study environment, as well as offering a diverse range of services.",
+    "Examples":[
+     "I have a lot of emails to review, and I would like to operate on a large screen.\n",
+     "I have a good idea that I need to jot down, and I prefer to write it on paper.\n",
+     "I want to complete my homework, and I need a quiet and comfortable environment.\n",
+     "I want to send some letters, so I'll need my writing materials and the postbox."
+    ],
+    "outputfile": "WorkandStudyDemands.txt"
+  },
+  "EntertainmentandExercise": {
+    "description": "You to articulate some relaxation, entertainment, or exercise-related needs and preferences. This includes, but is not limited to, the ways you prefer to unwind, your goals and types of exercises, and the venues and environments where you'd like to engage in these activities.",
+    "Examples":[
+     "I want to listen to music, but I don't want the sound to disturb my family.\n",
+     "I've been sitting for too long and feel the need to move around, and it would be best if I could do some exercise at home.\n",
+     "I want to entertain some friends over, I am thinking of something fun we could play indoors.\n"
+    ],
+    "outputfile": "EntertainmentandExerciseDemands.txt"
+  },
+  "IOHouse": {
+    "description": "Articulate some needs when just arriving home or preparing to leave. This includes, but is not limited to, assistance with home essentials upon arrival, help in preparing items for leaving, checking and turning off utilities at home, and other related tasks.",
+    "Examples":[
+     "I want to change out of my wet clothes, preferably into something warmer.\n",
+     "I've been sitting for too long and feel the need to move around, and it would be best if I could do some exercise at home.\n",
+     "I want to entertain some friends over, I am thinking of something fun we could play indoors.\n"
+    ],
+    "outputfile": "EntertainmentandExerciseDemands.txt"
+  },
+  "Tidyingupandcleaning": {
+    "description": "Articulate some needs when just arriving home or preparing to leave. This includes, but is not limited to, assistance with home essentials upon arrival, help in preparing items for leaving, checking and turning off utilities at home, and other related tasks.",
+    "Examples":[
+     "I want to change out of my wet clothes, preferably into something warmer.\n",
+     "I've been sitting for too long and feel the need to move around, and it would be best if I could do some exercise at home.\n",
+     "I want to entertain some friends over, I am thinking of something fun we could play indoors.\n"
+    ],
+    "outputfile": "EntertainmentandExerciseDemands.txt"
   },
   "Random":{
    "description":"",

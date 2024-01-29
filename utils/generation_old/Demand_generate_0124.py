@@ -64,14 +64,15 @@ for example in examples:
     prompt+=str(index)+"."
     prompt+=example
 
-prompt+="""Refer to these examples, generate diverse demands for me. Try to be creative!\n"""
+prompt+="""Refer to these examples, generate diverse demands for me. Please use your imagination, but consider that the only items available in your room are those mentioned above!\n"""
 
 post_dict = {
         "model": "gpt-4-0613",
         "messages": [{
               "role": "user",
                 "content": prompt
-    }]
+    }],
+    "temperature":0.3,
 }
 
 r = requests.post("https://frostsnowjh.com/v1/chat/completions", json=post_dict, headers=header)

@@ -1,0 +1,43 @@
+[{
+  "task_instruction": "I want to listen to music, but I don't want the sound to disturb my family.",
+  "basic_demand": "Listen to music",
+  "preference": "Not disturb family with music sound",
+  "basic_object": [["audio_system"], ["radio_receiver"], ["record_player"], ["loudspeaker"], ["media_player"], ["headphone","media_player"],["laptop"],["laptop","headphone"], ["tablet_computer"],["tablet_computer","headphone"], ["cellular_telephone"],["headphone","cellular_telephone"]],
+  "preference_object": [["headphone","cellular_telephone"], ["tablet_computer","headphone"],["tablet_computer","headphone"]]
+},
+{
+  "task_instruction": "It's too dark in this room, can we have more natural light?",
+  "basic_demand": "Light up the room",
+  "preference": "More natural light",
+  "basic_object": [["window"], ["window_curtain"],["lamp"], ["door"],["chandelier"], ["ceiling_lamp"], ["wall_lamp"], ["table_lamp"], ["projection_light"], ["floor_lamp"], ["track_lighting"], ["chandelier"], ["pendant_lamp"], ["ceiling_fan", "light"],["sliding_door"], ["double_door"], ["itinerant_door"], ["window_blind"], ["window_shade"]],
+  "preference_object": [["window"], ["window_curtain"], ["door"], ["sliding_door"], ["double_door"], ["itinerant_door"], ["window_blind"], ["window_shade"]]
+},
+{
+  "task_instruction": "The room has an unpleasant odor, perhaps we can ventilate to freshen the air.",
+  "basic_demand": "Mitigate unpleasant odor in room",
+  "preference": "Ventilate to freshen the air",
+  "basic_object": [["air_conditioner"], ["fan"], ["ceiling_fan"], ["window"], ["soap"], ["soap_dispenser"], ["spice_holder"], ["candle"], ["window_blind"],["plant"]],
+  "preference_object": [["window"], ["air_conditioner"], ["ceiling_fan"], ["fan"]]
+},
+{
+  "task_instruction": "The room is too cold, I'd like to cover up with something for warmth",
+  "basic_demand": "Warmth in a cold room",
+  "preference": "Cover up with something for warmth",
+  "basic_object": [["heating_system"], ["fireplace"], ["stove"], ["oven"],["electric_frying_pan"], ["blanket"],["candle"], ["throw"], ["quilt"],["bathrobe"], ["bedclothes"], ["bath_towel"]],
+  "preference_object": [["blanket"], ["throw"], ["quilt"],["bathrobe"], ["bedclothes"], ["bath_towel"]]
+},
+{
+  "task_instruction": "I have a good idea that I need to jot down, and I prefer to write it on paper.",
+  "basic_demand": "Jot down an idea",
+  "preference": "Prefer to write it on paper",
+  "basic_object": [["notepad"], ["magazine"], ["book"], ["notebook"], ["paper_towel"], ["letter"],["notepad","pen"],["magazine","pen"], ["book","pen"], ["notebook","pen"], ["paper_towel","pen"], ["letter", "pen"]] ,
+  "preference_object": [["notepad"], ["magazine"], ["book"], ["notebook"], ["paper_towel"], ["letter"],["notepad","pen"],["magazine","pen"], ["book","pen"], ["notebook","pen"], ["paper_towel","pen"], ["letter", "pen"]]
+},
+{
+  "task_instruction": "I want to decorate my room, maybe I can put something on the wall.",
+  "basic_demand": "Decorate room",
+  "preference": "Put something on the wall",
+  "basic_object": [["vase"], ["sofa"], ["armchair"], ["wall_unit"], ["wall_clock"], ["frame"], ["planter"],["wall_art"], ["flower_in_vase"], ["wall_calendar"], ["lamp"], ["basket"], ["mirror"], ["planter"], ["wall_shelving"], ["poster"], ["photo_frame"], ["bookshelf"], ["wall_decoration"], ["pendent_lamp"], ["painting"], ["wall_mirror"], ["candle"],["sculpture"], ["easel"], ["wall_decor"], ["wreath"], ["wall_art"], ["string_lights"], ["wall_panel"], ["wall_organizer"], ["wall_shelf"], ["tapestry"],["wall_sign"], ["wall_sticker"], ["wall_hook_rack"], ["hanging_cabinet"]],
+  "preference_object": [["wall_unit"], ["frame"], ["wall_calendar"], ["mirror"], ["planter"], ["wall_shelving"], ["photo_frame"], ["bookshelf"], ["wall_decoration"], ["pendent_lamp"], ["painting"],  ["candle"],["sculpture"], ["easel"], ["wall_decor"], ["wreath"], ["wall_mirror"], ["wall_art"], ["wall_clock"], ["string_lights"], ["poster"], ["wall_panel"], ["wall_organizer"], ["tapestry"],["wall_sign"], ["wall_sticker"], ["wall_hook_rack"], ["hanging_cabinet"], ["wall_shelf"]]
+}
+]

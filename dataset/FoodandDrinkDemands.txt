@@ -1,0 +1,37 @@
+2023-12-29 12:59:22.141134
+1. I'm in the mood for a warm comforting meal, but it needs to be light on the stomach.
+2. I feel like having a beverage that's unique and not commonly prepared at home, but no coffee please.
+3. I want to satisfy my sweet tooth today, but absolutely avoid anything with added sugars.
+4. I would like to make a meal that reminds me of my childhood, yet it should be simple and not heavily processed.
+5. I crave something refreshing, ideally a blend of fruits and vegetables - but not a salad.
+6. I have a desire for a snack that is crunchy and flavorful, but it shouldn't contain artificial flavor enhancers.
+7. I am thirsty and I'd fancy a drink, and it should be more towards the warmer side.
+8. I'd like to whip up a dessert that involves the use of multiple types of chocolate, but it should be low in fat content.
+9. I fancy a small portion of something savory, ideally baked and not fried.
+10. I'm looking forward to a meal that is cooked in a unique way; a fusion of different cuisines but it should not be very spicy.
+
+2023-12-29 13:03:44.483398
+1. I'm feeling peckish, I'd like something that can be prepared in the microwave and isn't too heavy.
+2. I'd prefer a warm meal with a hearty flavor, something that can be cooked on the stove.
+3. It's time for some refreshment, I'd like something cold and fruity to drink. No soda, please.
+4. I'm in need of a caffeine boost. I'd love a rich, hot coffee but not too strong.
+5. It's a sweet craving, I'd like to bake a dessert - something light and not too rich.
+6. I'm quite tired so I'd like a simple, easy-to-cook dinner with minimal ingredients.
+7. I'd love to try a new recipe today, preferably an exotic cuisine that can be cooked quickly.
+8. I'm thirsty for something unique. Fancy a mocktail, but no alcohol, please.
+9. I could use a wholesome brunch, perhaps something that involves eggs and whole grains.
+10. I'd love to indulge in a home-cooked gourmet dinner, something complex to prepare that will result in a multitude of flavors.
+
+2023-12-29 13:06:44.774943
+1. I am thirsty - I would like something hot, but not with a bitter taste.
+2. I am feeling peckish - I want to nibble on something, preferably something salty.
+3. I would like to enjoy a light snack - I prefer something crunchy with a hint of sweetness.
+4. I need a hearty meal - I'd prefer it to be fully cooked and has a balance of flavors.
+5. I need a cold beverage, I'd enjoy it if it's fruity but not too sweet.
+6. I want to prepare a homemade dish - I prefer it to be nutritious and flavorful.
+7. I would love a refreshing pick-me-up - I hope for something caffeine-infused with a touch of creaminess.
+8. I am craving something sweet - I want a baked good that's perfect with a cup of coffee.
+9. I would like to prepare breakfast - I'd prefer it light but protein-packed to sustain my day.
+10. I need a mid-day pick me up - I would like a hot beverage that is not too strong and has a delicate aroma.
+
+

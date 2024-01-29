@@ -1,0 +1,61 @@
+{
+        "task_instruction": "I need a comfortable place to read, preferably with natural light.",
+        "basic_demand": "I need a comfortable place to read",
+        "preference": "preferably with natural light",
+        "basic_object": [
+            [
+                "easy_chair.n.01",
+                "floor_lamp.n.01"
+            ],
+            [
+                "l-shaped_couch.n.01",
+                "lamp.n.02"
+            ],
+            [
+                "recliner.n.01",
+                "lamp.n.02"
+            ],
+            [
+                "rocking_chair.n.01",
+                "lamp.n.02"
+            ],
+            [
+                "chaise_longue.n.01",
+                "lamp.n.02"
+            ],
+            [
+                "l-shaped_couch.n.01",
+                "window.n.01"
+            ],
+            [
+                "recliner.n.01",
+                "window.n.01"
+            ],
+            [
+                "rocking_chair.n.01",
+                "window.n.01"
+            ],
+            [
+                "chaise_longue.n.01",
+                "window.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "l-shaped_couch.n.01",
+                "window.n.01"
+            ],
+            [
+                "recliner.n.01",
+                "window.n.01"
+            ],
+            [
+                "rocking_chair.n.01",
+                "window.n.01"
+            ],
+            [
+                "chaise_longue.n.01",
+                "window.n.01"
+            ]
+        ]
+    }

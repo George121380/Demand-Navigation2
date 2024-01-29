@@ -1,0 +1,404 @@
+[
+    {
+        "task_instruction": "I need a place to sit and read comfortably outdoors, but I prefer it to be shaded from the sun.",
+        "basic_demand": "I need a place to sit and read comfortably outdoors",
+        "preference": "but I prefer it to be shaded from the sun",
+        "basic_object": [
+            [
+                "armchair"
+            ],
+            [
+                "beanbag_chair"
+            ],
+            [
+                "club_chair"
+            ],
+            [
+                "chaise_longue"
+            ],
+            [
+                "garden_bench"
+            ],
+            [
+                "round_daybed"
+            ],
+            [
+                "swing_bench"
+            ],
+            [
+                "ball_chair"
+            ],
+            [
+                "desk"
+            ],
+            [
+                "table"
+            ],
+            [
+                "dining_table"
+            ],
+            [
+                "swivel_chair"
+            ],
+            [
+                "eames_chair"
+            ]
+        ],
+        "preference_object": [
+            [
+                "armchair",
+                "plant"
+            ],
+            [
+                "beanbag_chair",
+                "plant"
+            ],
+            [
+                "club_chair",
+                "plant"
+            ],
+            [
+                "chaise_longue",
+                "plant"
+            ],
+            [
+                "garden_bench",
+                "plant"
+            ],
+            [
+                "round_daybed",
+                "plant"
+            ],
+            [
+                "swing_bench",
+                "plant"
+            ],
+            [
+                "ball_chair",
+                "plant"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "Find a place to rest and rejuvenate with a scenic view, preferably outdoors.",
+        "basic_demand": "Find a place to rest and rejuvenate",
+        "preference": "with a scenic view, preferably outdoors",
+        "basic_object": [
+            [
+                "chaise_longue.n.01"
+            ],
+            [
+                "king_bed.n.01"
+            ],
+            [
+                "daybed.n.01"
+            ],
+            [
+                "hammock.n.01"
+            ],
+            [
+                "armchair.n.01"
+            ],
+            [
+                "round_daybed.n.01"
+            ],
+            [
+                "lawn_mower.n.01",
+                "blanket.n.01"
+            ],
+            [
+                "ball_chair.n.01"
+            ],
+            [
+                "swing_bench.n.01"
+            ],
+            [
+                "double_bed.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "swing_bench.n.01"
+            ],
+            [
+                "round_daybed.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need a place to sleep tonight, but I prefer something that gives me the comfort of my own bed.",
+        "basic_demand": "I need a place to sleep tonight",
+        "preference": "but I prefer something that gives me the comfort of my own bed",
+        "basic_object": [
+            [
+                "double_bed.n.01"
+            ],
+            [
+                "king_bed.n.01"
+            ],
+            [
+                "daybed.n.01"
+            ],
+            [
+                "mattress.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "double_bed.n.01"
+            ],
+            [
+                "king_bed.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "Find a place to relax and read quietly, preferably with a view of nature.",
+        "basic_demand": "Find a place to relax and read quietly",
+        "preference": "preferably with a view of nature",
+        "basic_object": [
+            [
+                "armchair",
+                "bookcase"
+            ],
+            [
+                "daybed",
+                "floor_lamp"
+            ],
+            [
+                "chaise_longue",
+                "side_table",
+                "magazine"
+            ],
+            [
+                "swing_bench",
+                "pendant_light"
+            ],
+            [
+                "ottoman",
+                "shelf",
+                "table_lamp"
+            ]
+        ],
+        "preference_object": [
+            [
+                "swing_bench",
+                "pendant_light"
+            ],
+            [
+                "daybed",
+                "floor_lamp"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need a place to rest and enjoy my book in a quiet corner",
+        "basic_demand": "I need a place to rest and read",
+        "preference": "in a quiet corner",
+        "basic_object": [
+            [
+                "armchair.n.01",
+                "floor_lamp.n.01",
+                "bookcase.n.01"
+            ],
+            [
+                "chaise_longue.n.01",
+                "lamp.n.02",
+                "bookcase.n.01"
+            ],
+            [
+                "beanbag_chair.n.01",
+                "cellular_telephone.n.01"
+            ],
+            [
+                "club_chair.n.01",
+                "lamp.n.02",
+                "magazine.n.01"
+            ],
+            [
+                "eames_chair.n.01",
+                "floor_lamp.n.01",
+                "novel.n.01"
+            ],
+            [
+                "ottoman.n.03",
+                "ceiling_lamp.n.01",
+                "bookcase.n.01"
+            ],
+            [
+                "swing_bench.n.01",
+                "daybed.n.01",
+                "bookcase.n.01"
+            ],
+            [
+                "double_bed.n.01",
+                "bedside_lamp.n.01",
+                "bookshelf.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "armchair.n.01",
+                "floor_lamp.n.01",
+                "bookcase.n.01"
+            ],
+            [
+                "chaise_longue.n.01",
+                "lamp.n.02",
+                "bookcase.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to dry my hands, preferably with something soft.",
+        "basic_demand": "I need to dry my hands",
+        "preference": "preferably with something soft",
+        "basic_object": [
+            [
+                "towel.n.01"
+            ],
+            [
+                "hand_dryer.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "towel.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to wrap a gift, preferably with an eco-friendly option.",
+        "basic_demand": "I need to wrap a gift",
+        "preference": "preferably with an eco-friendly option",
+        "basic_object": [
+            [
+                "blanket.n.01",
+                "tapestry.n.03"
+            ],
+            [
+                "newspaper",
+                "magazine.n.01"
+            ],
+            [
+                "poster.n.01"
+            ],
+            [
+                "wall_art.n.01"
+            ],
+            [
+                "towel.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "newspaper",
+                "magazine.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to refresh myself with a hot drink in the morning, without waiting too long.",
+        "basic_demand": "I need to refresh myself with a hot drink in the morning",
+        "preference": "without waiting too long",
+        "basic_object": [
+            [
+                "kettle.n.01",
+                "mug.n.01",
+                "tea.n.01"
+            ],
+            [
+                "coffee_maker.n.01",
+                "cup.n.01",
+                "coffee.n.01"
+            ],
+            [
+                "espresso_maker.n.01",
+                "espresso_cup.n.01"
+            ]
+        ],
+        "preference_object": [
+            [
+                "kettle.n.01",
+                "mug.n.01",
+                "tea.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need to light up a room for a romantic dinner, and I prefer it to be environmentally friendly.",
+        "basic_demand": "I need to light up a room for a romantic dinner",
+        "preference": "and I prefer it to be environmentally friendly",
+        "basic_object": [
+            [
+                "ceiling_lamp.n.01"
+            ],
+            [
+                "wall_unit.n.01"
+            ],
+            [
+                "floor_lamp.n.01"
+            ],
+            [
+                "table.n.02"
+            ],
+            [
+                "candle.n.01"
+            ],
+            [
+                "candlestick.n.01"
+            ],
+            [
+                "lamp.n.02"
+            ]
+        ],
+        "preference_object": [
+            [
+                "candle.n.01"
+            ],
+            [
+                "candlestick.n.01"
+            ]
+        ]
+    },
+    {
+        "task_instruction": "I need a place to work at home, but it should be in a quiet area where I won't be disturbed.",
+        "basic_demand": "I need a place to work at home",
+        "preference": "but it should be in a quiet area where I won't be disturbed",
+        "basic_object": [
+            [
+                "desk_calendar",
+                "laptop",
+                "office_chair"
+            ],
+            [
+                "conference_table",
+                "laptop"
+            ],
+            [
+                "desk_calendar",
+                "swivel_chair",
+                "laptop"
+            ],
+            [
+                "dining_table",
+                "laptop"
+            ],
+            [
+                "desk_calendar",
+                "laptop",
+                "ball_chair"
+            ]
+        ],
+        "preference_object": [
+            [
+                "conference_table",
+                "laptop"
+            ],
+            [
+                "dining_table",
+                "laptop"
+            ]
+        ]
+    }
+]

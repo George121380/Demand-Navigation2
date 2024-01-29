@@ -1,0 +1,421 @@
+2024-01-15 00:47:05.571573
+basic demand: Increase the room temperature for warmth 
+normal items: blanket, heating_system, towel, bathrobe, quilt, throw, clothes_dryer, blanket_chest, wall_unit, fireplace, stove, bath_towel.
+
+preference: I'd like to cover up with something for warmth
+prefered items: blanket, bathrobe, quilt, throw, bath_towel.
+
+2024-01-15 00:49:16.837882
+basic demand: Warmth 
+normal items: blanket, stove, fireplace, heating_system, quilt, bathrobe, throw, bedclothes.
+preference: Covering up for warmth
+preferred items: blanket, quilt, bathrobe, throw, bedclothes.
+
+2024-01-15 20:34:26.945835
+{
+    "task_instruction": "The room is too cold, I'd like to cover up with something for warmth",
+    "basic_demand": "Increase room temperature",
+    "preference": "Cover up with something for warmth",
+    "basic_object":["heating_system", "fireplace", "air_conditioner", "electric_fan", "radiator", "stove"],
+    "preference_object":["blanket", "quilt", "towel", "throw", "bedclothes", "bathrobe", "bunk_bed", "single_bed", "double_bed", "king_bed", "blanket_chest"]
+}
+
+2024-01-15 20:37:09.881875
+{
+    "task_instruction": "I am hungry, I'd like to prepare something quick and easy to eat",
+    "basic_demand": "The user is hungry and needs tools for preparing food.",
+    "preference": "The user prefers something quick and easy to prepare.",
+    "basic_object":["stove", "oven", "knife", "plate", "saucepan", "frying_pan", "mixer", "blender", "bucket", "glass", "bowl", "kitchen_scale", "sink", "kitchen_timer", "mixing_bowl", "chopping_board", "measuring_cup", "refrigerator", "dish_rack", "spoon", "toaster", "pot_holder", "dining_table", "cutlery", "microwave", "cooker"],
+    "preference_object":["microwave", "toaster", "blender"]
+}
+
+2024-01-15 21:37:44.972660
+{
+    "task_instruction": "I want to listen to music, but I don't want the sound to disturb my family",
+    "basic_demand": "Listen to music",
+    "preference": "Music should not disturb family members",
+    "basic_object": ["radio_receiver", "audio_system", "record_player", "media_player", "computer_screen", "laptop", "tablet_computer", "video_game_console", "telephone", "cellular_telephone"],
+    "preference_object": ["earphone", "headboard"]
+}
+
+2024-01-15 21:40:58.786976
+{
+    "task_instruction": "I want to listen to music, but I don't want the sound to disturb my family.",
+    "basic_demand": "Listen to music",
+    "preference": "Not disturb family while listening to music",
+    "basic_object":["audio_system", "radio_receiver", "media_player", "record_player", "laptop", "tablet_computer", "cellular_telephone", "dvd_player", "loudspeaker", "television_receiver", "microphone", "video_game_console", "headphone"],
+    "preference_object":["headphone","earphone"]
+}
+
+2024-01-15 21:49:45.416703
+{
+    "task_instruction": "I want to listen to music, but I don't want the sound to disturb my family.",
+    "basic_demand": "Listen to music",
+    "preference": "Without disturbing family members",
+    "basic_object": [["laptop"],["cellular_telephone"],["mp3"], ["audio_system"], ["media_player"], ["radio_receiver"], ["record_player"]],
+    "preference_object": [["earphone"], ["headphone"]]
+}
+
+2024-01-15 21:51:40.225536
+{
+  "task_instruction": "I want to listen to music, but I don't want the sound to disturb my family.",
+  "basic_demand": "Listen to music",
+  "preference": "Not disturb family with music sound",
+  "basic_object": [["audio_system"], ["radio_receiver"], ["record_player"], ["loudspeaker"], ["headphone"], ["media_player"], ["laptop"], ["computer_screen"],  ["tablet_computer"], ["cellular_telephone"]],
+  "preference_object": [["headphone"], ["earphone"]]
+}
+
+2024-01-15 22:26:47.207572
+{
+  "task_instruction": "I want to listen to music, but I don't want the sound to disturb my family.",
+  "basic_demand": "Listen to music",
+  "preference": "Not disturb family with music sound",
+  "basic_object": [["audio_system"], ["radio_receiver"], ["record_player"], ["media_player"], ["laptop"], ["computer_screen"], ["tablet_computer"], ["cellular_telephone"], ["guitar"], ["videodisk"], ["dvd_player"], ["television_receiver"], ["video_game_console"]],
+  "preference_object": [["earphone"], ["headphone"], ["earphone", "cellular_telephone"], ["earphone", "laptop"], ["earphone", "tablet_computer"], ["headphone", "audio_system"], ["headphone", "radio_receiver"], ["headphone", "record_player"], ["headphone", "media_player"], ["headphone", "videodisk"], ["headphone", "dvd_player"], ["headphone", "television_receiver"], ["headphone", "video_game_console"]]
+}
+
+2024-01-15 22:31:27.702809
+{
+  "task_instruction": "I have a good idea that I need to jot down, and I prefer to write it on paper.",
+  "basic_demand": "Jot down idea",
+  "preference": "Write on paper",
+  "basic_object": [["pen"],["pencil"],["laptop"],["computer_screen"],["tablet_computer"],["notebook"],["cellular_telephone"]],
+  "preference_object": [["pen","paper"],["pencil","paper"],["notebook"]]
+}
+
+2024-01-15 22:35:28.428026
+{
+  "task_instruction": "I have a good idea that I need to jot down, and I prefer to write it on paper.",
+  "basic_demand": "Jot down a good idea",
+  "preference": "Write on paper",
+  "basic_object": [["computer_work_area","laptop"], ["desk","laptop"], ["computer_work_area","tablet_computer"], ["desk","tablet_computer"], ["cellular_telephone"], ["notepad"], ["pen", "notepad"], ["desk_organizer","pen", "notepad"]],
+  "preference_object": [["notepad"], ["pen", "notepad"], ["desk_organizer","pen", "notepad"]]
+}
+
+2024-01-15 22:41:38.186516
+{
+  "task_instruction": "I am hungry, I'd like to prepare something quick and easy to eat",
+  "basic_demand": "Relieve hunger",
+  "preference": "Prepare quick and easy meal",
+  "basic_object": [["stove"], ["oven"], ["microwave"], ["knife"], ["chopping_board"], ["plate"], ["bowl"], ["spoon"], ["kettle"], ["toaster"], ["cooker"], ["measuring_cup"], ["frying_pan"], ["dishwasher"], ["refrigerator"], ["bread-bin"], ["kitchen_timer"],["coffee_maker"], ["mixer"], ["chicken"],["toaster_oven"], ["wok"], ["table"], ["chair"], ["spoon", "bowl"],["knife", "cutting_board", "stove"], ["knife", "cutting_board", "microwave"], ["knife", "cutting_board", "oven"], ["knife", "cutting_board", "cooker"], ["cereal", "bowl", "spoon"]],
+  "preference_object": [["microwave"], ["toaster"], ["bread-bin"], ["coffee_maker"], ["kitchen_timer"], ["mixer"], ["knife", "pre-made meal", "microwave"], ["bread", "toaster"], ["instant_noodles", "kettle"], ["pre-made_meal", "microwave"], ["canned_food", "can_opener", "microwave"], ["cereal", "bowl", "spoon"]]
+}
+
+2024-01-15 22:45:23.464974
+{
+  "task_instruction": "I am hungry, I'd like to prepare something quick and easy to eat.",
+  "basic_demand": "Prepare quick food",
+  "preference": "Easy to prepare",
+  "basic_object": [["knife"], ["stove"], ["microwave"], ["oven"], ["toaster_oven"], ["refrigerator"], ["dish_rack"], ["mixing_bowl"], ["strainer"], ["kettle"], ["chopping_board"], ["toaster"], ["mixer"], ["pan"], ["bowl"],["pot"],["plate"], ["spoon"], ["kitchen_scale"], ["saucepan"], ["casserole"], ["knife","stove","pan","spoon","plate"], ["knife","microwave","plate"], ["oven","tray","knife","plate"], ["kitchen_timer","microwave"], ["bread-bin","knife","plate"]],
+  "preference_object": [["toaster","bread-bin","plate"], ["microwave","plate"], ["kettle","teapot","cup"], ["hot_tub","cup"],["knife","plate","microwave"]]
+}
+
+2024-01-15 22:49:42.639668
+{
+  "task_instruction": "I am hungry, I'd like to prepare something quick and easy to eat",
+  "basic_demand": "Satisfy hunger",
+  "preference": "Prepare quick and easy meal",
+  "basic_object": [["oven"], ["stove"], ["microwave"], ["spoon"], ["knife"], ["chopping_board"], ["mixer"], ["blender"], ["toaster"], ["refrigerator"], ["cookware"], ["dish_rack"], ["dishwasher"], ["mixing_bowl"], ["plate"],["cup"], ["refrigerator","microwave"], ["stove","knife","chopping_board","mixer","plate","cup"],["oven","knife","chopping_board","mixer","plate","cup"],["refrigerator","oven","knife","chopping_board","mixer","plate","cup"],["kettle"],["casserole"],["coffeepot"], ["carafe"], ["saucepan"]],
+  "preference_object": [["microwave"],["microwave", "plate", "spoon"], ["microwave","knife","chopping_board","plate","cup"],["refrigerator","microwave"],["kettle"],["toaster"],["toaster_oven"],["sandwich_grill"],["coffee_maker"],["electric_frying_pan"]]
+}
+
+2024-01-15 23:57:21.333162
+{
+  "task_instruction": "I am hungry, I'd like to prepare something quick and easy to eat.",
+  "basic_demand": "Need to satisfy hunger",
+  "preference": "Quick and easy to prepare meal",
+  "basic_object":[
+                  ["blender", "knife", "spoon"], 
+                  ["oven", "pan", "measuring_cup"], 
+                  ["microwave", "plate"], 
+                  ["stove", "pot", "spoon", "plate"], 
+                  ["toaster_oven", "bread-bin"],
+                  ["mixer", "bowl"],
+                  ["cooker", "rice", "measuring_cup"],
+                  ["refrigerator", "sandwich", "plate"],
+                  ["casserole", "oven"],
+                  ["electric_frying_pan"],
+                  ["kettle", "coffee", "mug"]],
+  
+  "preference_object":[
+                       ["microwave", "plate"], 
+                       ["toaster_oven", "bread-bin"],
+                       ["cooker", "rice", "measuring_cup"],
+                       ["refrigerator", "sandwich", "plate"],
+                       ["electric_frying_pan"]]
+}
+
+2024-01-15 23:58:46.841568
+{
+ "task_instruction": "I have to catch up on my reading and prefer a quiet corner with good lighting and comfortable seating.",
+ "basic_demand": "Catch up on reading",
+ "preference": "Quiet corner with good lighting and comfortable seating",
+ "basic_object": [["book"], ["lamp"], ["magazine"], ["notebook"], ["table_lamp"], ["floor_lamp"], ["magazine_rack"], ["bookcase"], ["desk"], ["reading_glasses"], ["book","floor_lamp"], ["magazine","table_lamp"], ["bookcase","lamp"], ["magazine_rack", "desk"], ["desk", "lamp"],["desk", "table_lamp"]],
+ "preference_object": [["easy_chair","lamp","corner_table"],["easy_chair","lamp","book_case"],["chaise_longue","lamp","corner_table"],["chaise_longue","lamp","book_case"],["desk","lamp","easy_chair"], ["desk","floor_lamp","chaise_longue"], ["corner_table","book","easy_chair","lamp"], ["corner_table","magazine","chaise_longue","lamp"],["book_case","book","easy_chair","lamp"], ["book_case","magazine","chaise_longue","lamp"],["bookcase","book","easy_chair","lamp"], ["bookcase","magazine","chaise_longue","lamp"]]
+}
+
+2024-01-16 00:03:27.859819
+{
+  "task_instruction": "I have to catch up on my reading and prefer a quiet corner with good lighting and comfortable seating.",
+  "basic_demand": "Catch up on reading",
+  "preference": "Quiet corner with good lighting and comfortable seating",
+  "basic_object": [["book"], ["magazine"], ["notebook"], ["lamp"], ["table_lamp"], ["floor_lamp"], ["chair"], ["armchair"], ["eames_chair"], ["rocking_chair"], ["beanbag_chair"], ["swivel_chair"], ["easy_chair"], ["chaise_longue"], ["recliner"], ["sofa"]],
+  "preference_object": [["book","floor_lamp","beanbag_chair"], ["magazine","table_lamp","recliner"], ["notebook","lamp","sofa"], ["book","floor_lamp","swivel_chair"], ["magazine","lamp","easy_chair"], ["notebook","table_lamp","armchair"], ["book","floor_lamp","chaise_longue"], ["book","lamp","rocking_chair"], ["magazine","lamp","chair"]]
+}
+
+2024-01-16 00:07:47.342776
+{
+  "task_instruction": "I am hungry, I'd like to prepare something quick and easy to eat",
+  "basic_demand": "Satisfy Hunger",
+  "preference": "Prepare Quick and Easy Meal",
+  "basic_object": [["oven"], ["stove"], ["microwave"], ["toaster_oven"], ["range_hood"], ["kettle"], ["cooker"], ["refrigerator"], ["table"],["utensil"],["plate"],["mixing_bowl"],["basket"],["measuring_cup"],["spoon"],["knife"]],
+  "preference_object": [["microwave"], ["toaster"], ["bread-bin"], ["refrigerator"],["kettle"],["coffeepot"],["toaster_oven"],["plate"],["spoon"],["knife"],["cutting_board"]]
+}
+
+2024-01-16 00:08:38.899941
+{
+  "task_instruction": "I am hungry, I'd like to prepare something quick and easy to eat",
+  "basic_demand": "Hungry",
+  "preference": "Prepare something quick and easy to eat",
+  "basic_object": [["stove"], ["microwave"], ["oven"], ["refrigerator"], ["chopping_board"], ["knife"], ["spoon"], ["bottle_opener"], ["plate"], ["chicken"], ["mixing_bowl"], ["kettle"], ["toaster"], ["toaster_oven"], ["saucepan"], ["frying_pan"], ["microwave", "chicken"], ["refrigerator", "chicken"],  ["stove", "pan"], ["stove", "frying_pan"], ["microwave", "bowl"], ["oven", "cookie_sheet"]],
+  "preference_object": [["microwave"], ["toaster"], ["kettle"], ["microwave", "chicken"]]
+}
+
+2024-01-16 00:16:31.803014
+{
+  "task_instruction": "I want to eat that chicken, I just want to process it in a quick and easy way.",
+  "basic_demand": "Eat chicken",
+  "preference": "Quick and easy way to prepare",
+  "basic_object": [["knife"], ["chicken"], ["plate"], ["oven"], ["microwave"], ["stove"], ["mixer"], ["roaster"], ["electric_frying_pan"], ["cutting_board"], ["frying_pan"], ["wok"], ["kettle"], ["toaster"], ["toaster_oven"], ["knife","chicken"], ["knife","chicken","oven"], ["knife","chicken","microwave"], ["knife","chicken","stove"], ["knife","chicken","electric_frying_pan"]],
+  "preference_object": [["knife", "chicken", "microwave"], ["knife", "chicken", "toaster_oven"]]
+}
+
+2024-01-16 00:30:11.053391
+{
+  "task_instruction": "I am thirsty, and I want to drink something sweet.",
+  "basic_demand": "Quench Thirst",
+  "preference": "Drink something sweet",
+  "basic_object": [["glass"], ["cup"], ["faucet"], ["sink"], ["pitcher"], ["jug"], ["kettle"], ["coffeepot"], ["carafe"], ["hand_glass"], ["bottle"], ["tumbler"], ["teapot"] ],
+  "preference_object": [["glass","sugar_bowl"], ["cup","sugar_bowl"], ["pitcher","sugar_bowl"], ["jug","sugar_bowl"], ["kettle","sugar_bowl"], ["coffeepot","sugar_bowl"], ["carafe","sugar_bowl"], ["hand_glass","sugar_bowl"], ["bottle","sugar_bowl"], ["tumbler","sugar_bowl"], ["teapot","sugar_bowl"]]
+}
+
+2024-01-16 00:34:32.416713
+{
+"task_instruction": "I am thirsty, and I want to drink something hot.",
+"basic_demand": "Drink something",
+"preference": "Drink should be hot",
+"basic_object": [["faucet", "cup"], ["bottle", "cup"], ["kettle", "cup"], ["coffeepot", "cup"], ["thermos", "cup"], ["refrigerator", "cup"], ["faucet", "glass"], ["bottle", "glass"], ["kettle", "glass"], ["coffeepot", "glass"], ["thermos", "glass"], ["refrigerator", "glass"], ["faucet", "hand_glass"], ["bottle", "hand_glass"], ["kettle", "hand_glass"], ["coffeepot", "hand_glass"], ["thermos", "hand_glass"], ["refrigerator", "hand_glass"]],
+"preference_object": [["kettle", "cup"], ["coffeepot", "cup"], ["thermos", "cup"], ["kettle", "glass"], ["coffeepot", "glass"], ["thermos", "glass"], ["kettle", "hand_glass"], ["coffeepot", "hand_glass"], ["thermos", "hand_glass"]]
+}
+
+2024-01-16 00:37:33.310071
+{
+  "task_instruction": "I am thirsty, and I want to drink something hot.",
+  "basic_demand": "Thirsty",
+  "preference": "Drink something hot",
+  "basic_object": [["faucet"], ["cup"], ["glass"], ["pitcher"], ["jug"], ["bottle"], ["carafe"]],
+  "preference_object": [["kettle", "cup"], ["stove", "pot", "cup"], ["microwave", "mug"], ["coffeepot", "cup"], ["stove", "kettle", "cup"]]
+}
+
+2024-01-16 00:44:57.208350
+{
+  "task_instruction": "I am thirsty, and I want to drink something hot",
+  "basic_demand": "Satisfy thirst",
+  "preference": "Hot drink",
+  "basic_object": [["faucet","cup"],["bottle","cup"],["kettle","tap_water","cup"],["thermos","cup"]],
+  "preference_object": [["kettle","tap_water","cup"],["stove","pan","tap_water","cup"],["microwave","cup","tap_water"],["coffeepot"],["toaster_oven","cup","tap_water"],["coffee_maker","cup"]]
+}
+
+2024-01-16 00:48:13.878750
+{
+  "task_instruction": "I am thirsty, and I want to drink something hot.",
+  "basic_demand": "Thirsty",
+  "preference": "Drink something hot",
+  "basic_object": [["faucet"], ["glass"], ["bottle"], ["kettle"],["jug"],["pitcher"],["carafe"],["water_scooter"], ["sink"], ["pond"], ["cup"]],
+  "preference_object": [["kettle","cup","stove"], ["coffee_maker","cup"], ["tea_pot","cup","stove"], ["microwave","cup"], ["stove","saucepan","cup"], ["hot_tub","cup"], ["cooker","cup"], ["oven","cup"],["toaster_oven","cup"]]
+}
+
+2024-01-16 00:49:31.688205
+{
+  "task_instruction": "I am thirsty, and I want to drink something hot",
+  "basic_demand": "Thirsty",
+  "preference": "Drink something hot",
+  "basic_object": [["faucet", "cup"], ["bottle", "cup"], ["pond","cup"], ["cooler", "cup"], ["kettle", "cup"], ["sink","cup"], ["coffee_maker"], ["coffeepot"], ["jug"], ["pitcher"], ["faucet", "glass"], ["bottle", "glass"], ["pond","glass"], ["cooler", "glass"], ["sink","glass"], ["kettle", "glass"]],
+  "preference_object": [["coffee_maker"], ["coffeepot"], ["stove", "kettle", "cup"], ["microwave", "cup"], ["toaster_oven", "cup"], ["stove", "kettle", "glass"], ["microwave", "glass"], ["toaster_oven", "glass"], ["electric_frying_pan", "cup"], ["heating_system", "cup"], ["fireplace", "cup"], ["electric_frying_pan", "glass"], ["heating_system", "glass"], ["fireplace", "glass"]]
+}
+
+2024-01-16 09:19:57.761299
+{
+  "task_instruction": "I am thirsty, and I want to drink something hot.",
+  "basic_demand": "Satisfy thirst",
+  "preference": "Drink should be hot",
+  "basic_object": [["faucet", "cup"], ["pond", "cup"], ["water_scooter", "glass"], ["sink", "cup"], ["carafe", "cup"], ["cooker", "cup"], ["bottle", "cup"], ["toilet", "cup"], ["washbasin", "cup"], ["kitchen_faucet", "cup"]],
+  "preference_object": [["stove", "kettle", "cup"], ["fireplace", "kettle", "cup"], ["microwave", "water_bottle", "cup"], ["oven", "bottle", "cup"], ["electric_frying_pan", "water_bottle", "cup"], ["coffeepot", "carafe", "cup"], ["cooker", "kettle", "cup"], ["coffee_maker", "carafe", "cup"]]
+}
+
+2024-01-16 09:27:07.238453
+{
+  "task_instruction": "I am hungry, I'd like to prepare something quick and easy to eat.",
+  "basic_demand": "Satisfy hunger by preparing food",
+  "preference": "Preparation of food should be quick and easy",
+  "basic_object": [["knife"], ["cooker"], ["microwave"], ["dishwasher"], ["toaster"], ["blender"], ["oven"], ["mixer"], ["spoon"], ["coffeepot"], ["refrigerator"], ["table"], ["kettle"], ["plate"], ["towel"], ["sink"], ["electric_frying_pan"], ["casserole"], ["bottle_opener"], ["toaster_oven"], ["cutting_board"], ["strainer"]],
+  "preference_object": [["microwave"], ["toaster"], ["cooker"], ["toaster_oven"], ["electric_frying_pan"]]
+}
+
+2024-01-16 09:29:43.717734
+{
+  "task_instruction": "I want to process this chicken, and I want to do it in a simple and fast way.",
+  "basic_demand": "Process chicken",
+  "preference": "Do it in a simple and fast way",
+  "basic_object": [["chicken"], ["knife", "chicken"], ["chopping_board", "knife", "chicken"], ["cooker", "knife", "chicken"], ["microwave", "knife", "chicken"], ["blender","chicken"], ["stove", "knife", "chicken"], ["oven", "knife", "chicken"], ["frying_pan", "stove", "knife", "chicken"], ["saucepan", "stove", "knife", "chicken"], ["wok", "stove", "knife", "chicken"]],
+  "preference_object": [["microwave", "knife", "chicken"], ["blender","chicken"]]
+}
+
+2024-01-18 23:37:53.130949
+{
+  "task_instruction": "It's too dark in this room, can we have more natural light?",
+  "basic_demand": "Light up the room",
+  "preference": "More natural light",
+  "basic_object": [["window"], ["window_curtain"],["lamp"], ["door"],["chandelier"], ["ceiling_lamp"], ["wall_lamp"], ["table_lamp"], ["projection_light"], ["floor_lamp"], ["track_lighting"], ["chandelier"], ["pendant_lamp"], ["ceiling_fan", "light"],["sliding_door"], ["double_door"], ["itinerant_door"], ["window_blind"], ["window_shade"]],
+  "preference_object": [["window"], ["window_curtain"], ["door"], ["sliding_door"], ["double_door"], ["itinerant_door"], ["window_blind"], ["window_shade"]]
+}
+
+2024-01-18 23:41:14.308885
+{
+  "task_instruction": "The room has an unpleasant odor, perhaps we can ventilate to freshen the air.",
+  "basic_demand": "Mitigate unpleasant odor in room",
+  "preference": "Ventilate to freshen the air",
+  "basic_object": [["air_conditioner"], ["fan"], ["ceiling_fan"], ["window"], ["soap"], ["soap_dispenser"], ["spice_holder"], ["candle"], ["window_blind"]["plant"]],
+  "preference_object": [["window"], ["air_conditioner"], ["ceiling_fan"], ["fan"]]
+}
+
+2024-01-18 23:44:56.359088
+{
+  "task_instruction": "The room has an unpleasant odor, perhaps we can ventilate to freshen the air.",
+  "basic_demand": "Eliminate unpleasant odor",
+  "preference": "Ventilate to freshen the air",
+  "basic_object": [["window"], ["air_conditioner"], ["fan"], ["sofa", "bath_mat", "armchair", "cushion", "throw_pillow"], ["candle"], ["soap"], ["bathrobe"], ["toiletry"], ["bathroom_scale"]],
+  "preference_object": [["window"], ["air_conditioner"], ["fan"], ["ceiling_fan"]]
+}
+
+2024-01-18 23:50:03.278379
+{
+  "task_instruction": "The room is too cold, I'd like to cover up with something for warmth.",
+  "basic_demand": "Raise body temperature",
+  "preference": "Cover up with something for warmth",
+  "basic_object": [["heating_system"], ["fireplace"], ["stove"], ["radiator"], ["electric_fan"]],
+  "preference_object": [["blanket"], ["bathrobe"], ["quilt"], ["bedclothes"], ["throw"]]
+}
+
+2024-01-18 23:50:42.416884
+{
+  "task_instruction": "The room is too cold, I'd like to cover up with something for warmth",
+  "basic_demand": "Warmth in a cold room",
+  "preference": "Cover up with something for warmth",
+  "basic_object": [["heating_system"], ["fireplace"], ["stove"], ["oven"],["electric_frying_pan"], ["blanket"],["candle"], ["throw"], ["quilt"],["bathrobe"], ["bedclothes"], ["bath_towel"]],
+  "preference_object": [["blanket"], ["throw"], ["quilt"],["bathrobe"], ["bedclothes"], ["bath_towel"]]
+}
+
+2024-01-18 23:52:23.035729
+{
+  "task_instruction": "I would like to drink something refreshing, but I don't want to drink tea.",
+  "basic_demand": "Drink something refreshing",
+  "preference": "Does not want to drink tea",
+  "basic_object": [ ["faucet","glass"], ["sink","glass"], ["soda_can"], ["bottle"], ["kettle","glass"], ["blender","fruit","glass"], ["coffee_maker"], ["carafe"], ["pitcher"], ["refrigerator","glass"], ["espresso_maker"], ["jar"], ["cabinet","glass"] ],
+  "preference_object": [ ["faucet","glass"], ["sink","glass"], ["soda_can"], ["bottle"], ["blender","fruit","glass"], ["carafe"], ["pitcher"], ["refrigerator","glass"]]
+}
+
+2024-01-19 00:17:03.884901
+According to your demand and the items available in your room, here is the JSON response:
+
+{
+    "task_instruction": "I have a good idea that I need to jot down, and I prefer to write it on paper.",
+    "basic_demand": "Jot down idea",
+    "preference": "Write on paper",
+    "basic_object": [["tablet_computer"],["laptop"], ["computer_screen"], ["notepad"], ["tablet_computer"], ["notebook"] ],
+    "preference_object": [ ["notepad"], ["notebook"] ]
+}
+
+2024-01-19 00:17:39.451201
+{
+  "task_instruction": "I have a good idea that I need to jot down, and I prefer to write it on paper",
+  "basic_demand": "Need to jot down idea",
+  "preference": "Prefer to write on paper",
+  "basic_object": [["notepad"], ["notebook"], ["paper_organizer"]],
+  "preference_object": [["notepad"], ["notebook"], ["paper_organizer"]]
+}
+
+2024-01-19 00:18:06.263983
+{
+  "task_instruction": "I have a good idea that I need to jot down, and I prefer to write it on paper.",
+  "basic_demand": "Jot down idea",
+  "preference": "Write it on paper",
+  "basic_object": [["laptop"],["notepad", "pen"], ["notebook", "pen"], ["magazine", "pen"], ["letter", "pen"], ["book", "pen"],["whiteboard", "pen"],["blackboard", "chalk"]],
+  "preference_object": [["notepad", "pen"], ["notebook", "pen"], ["letter", "pen"], ["book", "pen"]] 
+}
+
+2024-01-19 00:19:04.825324
+{
+  "task_instruction": "I have a good idea that I need to jot down, and I prefer to write it on paper.",
+  "basic_demand": "Jot down an idea",
+  "preference": "Prefer to write it on paper",
+  "basic_object": [["notepad"], ["magazine"], ["book"], ["notebook"], ["paper_towel"], ["letter"],["notepad","pen"],["magazine","pen"], ["book","pen"], ["notebook","pen"], ["paper_towel","pen"], ["letter", "pen"]] ,
+  "preference_object": [["notepad"], ["magazine"], ["book"], ["notebook"], ["paper_towel"], ["letter"],["notepad","pen"],["magazine","pen"], ["book","pen"], ["notebook","pen"], ["paper_towel","pen"], ["letter", "pen"]]
+}
+
+2024-01-19 00:23:29.157953
+{
+  "task_instruction": "I want to entertain some friends over, I am thinking of something fun we could play indoors.",
+  "basic_demand": "Entertain friends over",
+  "preference": "Fun games to play indoors",
+  "basic_object": [ ["sofa"], ["chair"], ["coffee_table"], ["dining_table"], ["l-shaped_couch"], ["beanbag_chair"], ["easy_chair"], ["armchair"], ["chaise_longue"], ["kitchen_island"], ["bar"], ["serving_cart"], ["end_table"], ["swivel_chair"], ["audio_system"], ["television_receiver"], ["computer_work_area"], ["ladder_bookcase"], ["drum_set"], ["easel"], ["music_stand"], ["coffeepot"], ["bottle_opener"], ["wine_bucket"], ["bookcase"], ["trailer"], ["basket"], ["blackboard"], ["whiteboard"], ["cabinet"]],
+  "preference_object": [["pinball_machine"], ["pool_table"], ["board_game"], ["chess"], ["videodisk"], ["darts"], ["dartboard"], ["video_game_console"], ["table-tennis_table"], ["guitar"], ["air_hockey_table"], ["projector"], ["foosball_table"], ["game_table"], ["plaything"], ["plush_toy"]]
+}
+
+2024-01-19 00:24:56.538004
+{
+  "task_instruction": "I want to entertain some friends over, I am thinking of something fun we could play indoors.",
+  "basic_demand": "Entertain some friends over",
+  "preference": "Indoor fun activities",
+  "basic_object": [["sofa","table","chair","coffee_table"], ["dining_table", "chair"],["l-shaped_couch","coffee_table"], ["beanbag_chair"], ["armchair","side_table"], ["sofa","coffee_table","television_receiver"],["audio_system"],["projector","screen"],["laptop","swivel_chair"],["game_table"], ["sofa","double_bed","beanbag_chair"]],
+  "preference_object": [["board_game"],["pinball_machine"],["pool_table"],["foosball_table"],["videodisk","dvd_player","television_receiver"],["card_game","table"],["video_game_console","television_receiver"],["drum_set","microphone"],["projector","screen","dvd_player"]]
+}
+
+2024-01-19 00:27:42.486570
+{
+  "task_instruction": "I want to decorate my room, maybe I can put something on the wall.",
+  "basic_demand": "Decorate room",
+  "preference": "Put something on the wall",
+  "basic_object": [["vase"], ["sofa"], ["armchair"], ["wall_unit"], ["wall_clock"], ["frame"], ["planter"],["wall_art"], ["flower_in_vase"], ["wall_calendar"], ["lamp"], ["basket"], ["mirror"], ["planter"], ["wall_shelving"], ["poster"], ["photo_frame"], ["bookshelf"], ["wall_decoration"], ["pendent_lamp"], ["painting"], ["wall_mirror"], ["candle"],["sculpture"], ["easel"], ["wall_decor"], ["wreath"], ["wall_art"], ["string_lights"], ["wall_panel"], ["wall_organizer"], ["wall_shelf"], ["tapestry"],["wall_sign"], ["wall_sticker"], ["wall_hook_rack"], ["hanging_cabinet"]],
+  "preference_object": [["wall_unit"], ["frame"], ["wall_calendar"], ["mirror"], ["planter"], ["wall_shelving"], ["photo_frame"], ["bookshelf"], ["wall_decoration"], ["pendent_lamp"], ["painting"],  ["candle"],["sculpture"], ["easel"], ["wall_decor"], ["wreath"], ["wall_mirror"], ["wall_art"], ["wall_clock"], ["string_lights"], ["poster"], ["wall_panel"], ["wall_organizer"], ["tapestry"],["wall_sign"], ["wall_sticke
+  
+  r"], ["wall_hook_rack"], ["hanging_cabinet"], ["wall_shelf"]]
+}
+
+2024-01-19 00:36:46.238049
+{
+  "task_instruction": "I want to wash my dog, but I don't want to use soap.",
+  "basic_demand": "Wash dog",
+  "preference": "Do not use soap",
+  "basic_object": [["pond","towel"], ["sink","towel"], ["showerhead","towel"], ["bucket","towel"], ["faucet","towel"], ["washbasin","towel"], ["hose","towel"]],
+  "preference_object": [["pond","towel"], ["sink","towel"], ["showerhead","towel"], ["bucket","towel"], ["faucet","towel"], ["washbasin","towel"], ["hose","towel"]]
+}
+
+2024-01-19 00:37:36.300674
+{
+  "task_instruction": "I want to wash my dog, but I don't want to use soap.",
+  "basic_demand": "Wash dog",
+  "preference": "Not use soap",
+  "basic_object": [["pond"],["faucet","towel"],["bucket","towel"],["showerhead","bathrobe"],["shower_faucet","bath_towel"],["sink","towel"]],
+  "preference_object": [["pond"],["bucket","towel"]]
+}
+
+2024-01-19 00:37:59.279082
+{
+  "task_instruction": "I want to wash my dog, but I don't want to use soap.",
+  "basic_demand": "Wash dog",
+  "preference": "Not use soap",
+  "basic_object": [["sink","towel"], ["pond","towel"], ["showerhead","towel"], ["towel", "faucet"], ["bucket","towel"]],
+  "preference_object": [["sink","towel"], ["pond", "towel"], ["towel", "faucet"], ["bucket","towel"]]
+}
+
